@@ -46,7 +46,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=liwmj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-🤗 &nbsp;你好~ 我是 [**Mason**](https://liwmj.com)，目前生活在杭州，热爱中国传统文化，崇尚技术的分而治之，根据应用场景采用相应的技术！15年以上物联网从业经验，其中10年以上开发及架构设计经验，担任过架构师、项目经理、技术主管。
+🤗 &nbsp;你好~ 我是 [**Mason**](https://liwmj.com)，目前生活在杭州，热爱中国传统文化，崇尚技术的分而治之，根据应用场景采用相应的技术！15年以上物联网从业经验，担任过架构师、项目经理、技术主管。
 
 🌈 &nbsp;极客、技术宅、全栈。研究过多种编程语言，深爱多范式混合编程和对象编程，有代码洁癖。喜欢探索新知识，乐于将自己开发的作品分享给开源社区，愿意和低调、诚实肯干的有识之士共同进步。
 
