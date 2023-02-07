@@ -44,7 +44,7 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liwmj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liwmj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 🤗 &nbsp;你好~ 我是 [**Mason**](https://liwmj.com)，目前生活在杭州，热爱中国传统文化，崇尚技术的分而治之，根据应用场景采用相应的技术！15年以上物联网从业经验，担任过架构师、项目经理、技术主管。
 
@@ -55,6 +55,6 @@
 
 <div align="center">
 
-![ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=liwmj&column=7&margin-w=15&margin-h=15)
+![ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=liwmj&column=8&margin-w=15&margin-h=15)
 
 </div>
