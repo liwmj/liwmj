@@ -55,6 +55,6 @@
 
 <div align="center">
 
-![ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=liwmj&column=8&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liwmj)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
