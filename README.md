@@ -55,6 +55,6 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=liwmj&no-bg=true&row=2&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=liwmj&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
