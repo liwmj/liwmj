@@ -709,9 +709,9 @@ def sync_categories(token, categorized, state, dry_run=False, is_ci=False, all_r
     if is_ci:
         print(f"  (CI mode: max {MAX_MUTATIONS_PER_RUN} mutations/run)\n")
 
-    # 0. Prune repos that were un-starred since last sync
-    if all_repos:
-        prune_unstarred(token, all_repos, state, dry_run=dry_run)
+    # 0. TODO: prune disabled — removing all state entries due to node_id mismatch bug
+    # if all_repos:
+    #     prune_unstarred(token, all_repos, state, dry_run=dry_run)
 
     # 1. Fetch existing lists
     print("  Fetching existing lists ...")
@@ -822,19 +822,21 @@ def main():
     if repos is None:
         try:
             repos = fetch_stars(username, token=token)
+            print(f"Total starred repos: {len(repos)}")
+            if not repos:
+                print("No starred repos found.")
+                sys.exit(0)
+            with open(data_file, "w", encoding="utf-8") as f:
+                json.dump(repos, f, ensure_ascii=False, indent=2)
+            print("Saved raw data → stars_data.json")
         except Exception as e:
             print(f"Error fetching stars: {e}")
-            sys.exit(1)
-
-        print(f"Total starred repos: {len(repos)}")
-
-        if not repos:
-            print("No starred repos found.")
-            sys.exit(0)
-
-        with open(data_file, "w", encoding="utf-8") as f:
-            json.dump(repos, f, ensure_ascii=False, indent=2)
-        print("Saved raw data → stars_data.json")
+            if os.path.exists(data_file):
+                print(f"Falling back to cached {data_file}...")
+                with open(data_file, encoding="utf-8") as f:
+                    repos = json.load(f)
+            else:
+                sys.exit(1)
 
     # 2. Classify
     print("Classifying ...")
