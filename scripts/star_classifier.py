@@ -32,6 +32,7 @@ Requirements: Python 3.8+ (stdlib only, no pip install needed)
 """
 
 import json
+import html as _html
 import os
 import sys
 import time
@@ -410,9 +411,9 @@ def generate_html(categorized, gen_time=None):
             topics = repo.get("topics", []) or []
 
             html += '<div class="repo">\n'
-            html += f'  <a href="{url}">{name}</a>\n'
+            html += f'  <a href="{url}">{_html.escape(name)}</a>\n'
             if desc:
-                html += f'  <div class="desc">{desc}</div>\n'
+                html += f'  <div class="desc">{_html.escape(desc)}</div>\n'
             meta_parts = []
             if lang:
                 meta_parts.append(f'<span class="lang">{lang}</span>')
@@ -422,7 +423,7 @@ def generate_html(categorized, gen_time=None):
                 html += f'  <div class="meta">{" · ".join(meta_parts)}</div>\n'
             if topics:
                 html += '  <div class="topics">'
-                html += " ".join(f"<span>{t}</span>" for t in topics[:5])
+                html += " ".join(f"<span>{_html.escape(t)}</span>" for t in topics[:5])
                 html += "</div>\n"
             html += "</div>\n"
 
@@ -512,7 +513,7 @@ def load_state():
 def save_state(state):
     """Save sync state to file."""
     state["_updated"] = datetime.now().isoformat()
-    state["_count"] = len(state) - 2  # exclude _updated and _count
+    state["_count"] = sum(1 for k in state if not k.startswith("_"))
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
