@@ -5,7 +5,6 @@ on:
     paths:
       - 'scripts/star_classifier.py'
       - '.github/workflows/sync-stars-lists.yml'
-      - 'stars_state.json'
   schedule:
     - cron: '0 6 * * 1'
   workflow_dispatch:
