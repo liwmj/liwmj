@@ -5,8 +5,8 @@ on:
     - cron: '0 6 * * 1'
   workflow_dispatch:
     inputs:
-      force-full:
-        description: 'Delete state file and re-sync all repos from scratch'
+      reconcile:
+        description: 'Fix state to match actual GitHub Lists (after manual drags)'
         type: boolean
         default: false
 
@@ -25,17 +25,15 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Optional force-full reset
-        if: ${{ github.event.inputs.force-full == 'true' }}
-        run: |
-          echo "🗑️  Removing state file to force full re-sync"
-          rm -f stars_state.json
-
       - name: Sync stars to Lists
         env:
           GH_STAR_TOKEN: ${{ secrets.STARS_PAT }}
         run: |
-          python scripts/star_classifier.py liwmj --sync --ci
+          if [ "${{ github.event.inputs.reconcile }}" = "true" ]; then
+            python scripts/star_classifier.py liwmj --sync --ci --reconcile
+          else
+            python scripts/star_classifier.py liwmj --sync --ci
+          fi
 
       - name: Commit updated state files
         run: |

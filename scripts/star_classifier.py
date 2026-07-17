@@ -769,6 +769,75 @@ def sync_categories(token, categorized, state, dry_run=False, is_ci=False, all_r
     print("\n✅ Sync complete!")
 
 
+# ─── Reconcile ────────────────────────────────────────────────────────────────
+
+def reconcile_lists(token, repos, state, dry_run=False):
+    """
+    Read GitHub Lists and sync state to match reality.
+    Use when you manually moved repos between Lists on the web UI.
+    """
+    print("\n🔍 Reconciling state with GitHub Lists ...")
+    if dry_run:
+        print("  (DRY RUN)\n")
+
+    # 1. Fetch all lists with all items
+    lists = fetch_existing_lists(token)
+    actual = {}  # node_id → list_name
+
+    for lst in lists:
+        cursor = None
+        while True:
+            query = """
+            query($lid: ID!, $cursor: String) {
+              node(id: $lid) { ... on UserList {
+                items(first: 100, after: $cursor) {
+                  nodes { ... on Repository { id } }
+                  pageInfo { hasNextPage endCursor }
+                }
+              }}
+            }"""
+            data = gql_request(token, query, {"lid": lst["id"], "cursor": cursor})
+            items = data["node"]["items"]
+            for item in items["nodes"]:
+                actual[item["id"]] = lst["name"]
+            if not items["pageInfo"]["hasNextPage"]:
+                break
+            cursor = items["pageInfo"]["endCursor"]
+            time.sleep(0.3)
+        print(f"  📋 {lst['name']}: {len([k for k,v in actual.items() if v == lst['name']])} repos")
+
+    # 2. Compare with state
+    added = 0
+    removed = 0
+    moved = 0
+
+    # Repos in Lists but missing from state → add to state
+    for nid, list_name in actual.items():
+        if nid not in state:
+            state[nid] = list_name
+            added += 1
+        elif state[nid] != list_name:
+            old = state[nid]
+            state[nid] = list_name
+            moved += 1
+            if moved <= 10 or dry_run:
+                print(f"  📦 moved: [{old}] → [{list_name}]")
+
+    # Repos in state but not in any List → remove from state
+    for nid in list(state.keys()):
+        if not nid.startswith("_") and nid not in actual:
+            del state[nid]
+            removed += 1
+
+    total = added + moved + removed
+    print(f"\n  Added to state: {added}  |  Moved: {moved}  |  Removed: {removed}")
+    if not dry_run and total > 0:
+        save_state(state)
+        print("  ✅ State updated")
+    elif total == 0:
+        print("  ✅ State already matches Lists — nothing to do")
+
+
 # ─── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
@@ -778,14 +847,16 @@ def main():
     do_sync = "--sync" in flags
     dry_run = "--dry-run" in flags
     is_ci = "--ci" in flags
+    do_reconcile = "--reconcile" in flags
 
     if len(args) < 1:
-        print("Usage: python3 star_classifier.py <github-username> [--sync] [--ci] [--dry-run]")
+        print("Usage: python3 star_classifier.py <github-username> [--sync] [--ci] [--dry-run] [--reconcile]")
         print("       Set GITHUB_TOKEN or GH_STAR_TOKEN env var.")
         print()
-        print("  --sync      Create/update GitHub Stars Lists")
-        print("  --ci        CI mode: non-interactive, GH_STAR_TOKEN, incremental")
-        print("  --dry-run   Preview sync without making changes (requires --sync)")
+        print("  --sync        Create/update GitHub Stars Lists")
+        print("  --ci          CI mode: non-interactive, GH_STAR_TOKEN, incremental")
+        print("  --dry-run     Preview changes without writing")
+        print("  --reconcile   Fix state to match actual GitHub Lists (after manual drags)")
         sys.exit(1)
 
     username = args[0]
@@ -811,7 +882,7 @@ def main():
 
     # 1. Fetch stars
     data_file = "stars_data.json"
-    if do_sync or is_ci:
+    if do_sync or is_ci or do_reconcile:
         repos = None
     elif os.path.exists(data_file):
         use_cached = input(f"📁 {data_file} found. Use cached data? [Y/n]: ").strip().lower()
@@ -891,7 +962,12 @@ def main():
     if other_count > 0:
         print(f"\n📝 {other_count} repos in '🧩 Other' (unclassified, synced to its own list)")
 
-    # 5. Sync to GitHub Lists
+    # 5. Reconcile state with actual GitHub Lists (fix manual drags)
+    if do_reconcile:
+        state = load_state()
+        reconcile_lists(token, repos, state, dry_run=dry_run)
+
+    # 6. Sync to GitHub Lists
     if do_sync:
         state = load_state()
         state_count = sum(1 for k in state if not k.startswith("_"))
