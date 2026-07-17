@@ -162,7 +162,12 @@ CATEGORIES = OrderedDict([
             "learning", "interview", "roadmap", "best-practices",
         ],
         "languages": ["Markdown", "TeX"],
-        "desc": ["awesome list", "curated list", "learning resource"],
+        "desc": [
+            "awesome list", "curated list", "learning resource",
+            "guide", "tutorial", "documentation", "awesome",
+            "cheatsheet", "book", "roadmap", "learning",
+            "interview", "best practices", "cookbook",
+        ],
         "priority": 6,
     }),
     ("📦 Libraries / SDKs", {
@@ -207,24 +212,44 @@ def classify_repo(repo):
     name = (repo.get("name") or "").lower()
 
     best_cat = "🧩 Other"
-    best_priority = 0
+    best_score = 0
+    best_exact = 0  # count of exact topic matches (tie-breaker)
 
     for cat_name, rules in CATEGORIES.items():
         score = 0
+        exact_matches = 0
 
-        # Topic match (strongest signal)
+        # Topic match
         for topic in topics:
             if topic in rules["topics"]:
-                score += 3
+                exact_matches += 1
+                score += 10
             else:
                 for rule_topic in rules["topics"]:
-                    if rule_topic in topic or topic in rule_topic:
-                        score += 1
+                    # short topics (<=2 chars) must be exact match
+                    if len(rule_topic) <= 2:
+                        if topic == rule_topic:
+                            exact_matches += 1
+                            score += 10
+                            break
+                        continue
+
+                    # Method 1: hyphen-token overlap (e.g. "react" in "react-native")
+                    rt_tokens = set(rule_topic.split("-"))
+                    t_tokens = set(topic.split("-"))
+                    if rt_tokens & t_tokens:
+                        score += 2
                         break
+
+                    # Method 2: substring match (length guard > 4 avoids "guide"/"guid")
+                    if len(rule_topic) > 4 and len(topic) > 4:
+                        if rule_topic in topic or topic in rule_topic:
+                            score += 2
+                            break
 
         # Language match
         if language and language in rules["languages"]:
-            score += 2
+            score += 5
 
         # Description match
         if description:
@@ -232,21 +257,16 @@ def classify_repo(repo):
                 if kw in description:
                     score += 1
 
-        # Name/full_name match (weak)
+        # Name match (weak)
         if name or full_name:
             for kw in rules["desc"]:
                 if kw in name or kw in full_name:
                     score += 1
 
-        if score > best_priority:
-            best_priority = score
+        if score > best_score or (score == best_score and exact_matches > best_exact):
+            best_score = score
+            best_exact = exact_matches
             best_cat = cat_name
-        elif score == best_priority and rules["priority"] > 1:
-            # Tie-breaking: use category priority
-            for cn, cr in CATEGORIES.items():
-                if cn == best_cat and cr["priority"] < rules["priority"]:
-                    best_cat = cat_name
-                    break
 
     return best_cat
 
@@ -450,12 +470,37 @@ def gql_request(token, query, variables=None):
         body["variables"] = variables
 
     data = json.dumps(body).encode("utf-8")
-    req = urllib.request.Request(GQL_URL, data=data, headers=headers, method="POST")
+    last_error = None
 
-    try:
-        with urllib.request.urlopen(req) as resp:
-            result = json.loads(resp.read().decode())
-    except urllib.error.HTTPError as e:
+    for attempt in range(4):
+        req = urllib.request.Request(GQL_URL, data=data, headers=headers, method="POST")
+        try:
+            with urllib.request.urlopen(req) as resp:
+                result = json.loads(resp.read().decode())
+                break
+        except urllib.error.HTTPError as e:
+            body_text = e.read().decode() if e.fp else ""
+            if e.code in (502, 503, 504):
+                last_error = e
+                if attempt < 3:
+                    wait = (attempt + 1) * 10
+                    print(f"  ⚠️ Server {e.code} (attempt {attempt+1}/4), retrying in {wait}s...")
+                    time.sleep(wait)
+                    continue
+            print(f"  GraphQL Error {e.code}: {body_text[:300]}")
+            if e.code == 401:
+                print("  → Token needs 'user' scope. Classic PAT with 'user' scope required for Lists.")
+                print("  → Create at: https://github.com/settings/tokens")
+                sys.exit(1)
+            raise
+        except (urllib.error.URLError, OSError) as e:
+            last_error = e
+            if attempt < 3:
+                wait = (attempt + 1) * 5
+                print(f"  ⚠️ Network error (attempt {attempt+1}/4), retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise last_error
         body_text = e.read().decode() if e.fp else ""
         print(f"  GraphQL Error {e.code}: {body_text[:300]}")
         if e.code == 401:
@@ -535,13 +580,15 @@ def create_list(token, name, description=""):
 
 def sync_repos_to_list(token, list_id, repos, state, cat_name, dry_run=False, max_mutations=None):
     """
-    Batch-add NEW repos to a list via aliased GraphQL mutations.
-    Skips repos already recorded in state.
+    Batch-add repos to a list via aliased GraphQL mutations.
+    Includes repos that are new OR whose classification changed since last sync.
+    Skips repos already recorded in state with the same category.
     Updates state after each batch.
     Returns: (added_count, remaining_repos_for_next_run)
     """
     BATCH_SIZE = 5
-    new_repos = [r for r in repos if r.get("node_id", "") not in state]
+    # Include repo if: new (not in state) OR classification changed since last sync
+    new_repos = [r for r in repos if state.get(r.get("node_id", "")) != cat_name]
     total_new = len(new_repos)
 
     if total_new == 0:
@@ -610,6 +657,13 @@ def prune_unstarred(token, current_repos, state, dry_run=False):
     if not orphaned:
         return
 
+    # Safety: if ALL state entries appear orphaned, data is inconsistent — skip
+    state_entries = sum(1 for k in state if not k.startswith("_"))
+    if len(orphaned) == state_entries and state_entries > 10:
+        print(f"\n⚠️  All {state_entries} state entries appear orphaned — "
+              f"data inconsistency, skipping prune")
+        return
+
     print(f"\n🧹 Pruning {len(orphaned)} un-starred repos from lists ...")
     batch = []
     for node_id, cat in orphaned:
@@ -660,7 +714,7 @@ def sync_categories(token, categorized, state, dry_run=False, is_ci=False, all_r
     # 2. Create/ensure lists for each category
     list_map = {}  # category_name -> list_id
     for cat_name, repos in categorized.items():
-        if cat_name == "🧩 Other" or not repos:
+        if not repos:
             continue
         if cat_name in existing_map:
             list_map[cat_name] = existing_map[cat_name]
@@ -821,7 +875,7 @@ def main():
 
     other_count = len(categorized.get("🧩 Other", []))
     if other_count > 0:
-        print(f"\n📝 {other_count} repos in '🧩 Other' — check for missing category rules.")
+        print(f"\n📝 {other_count} repos in '🧩 Other' (unclassified, synced to its own list)")
 
     # 5. Sync to GitHub Lists
     if do_sync:
