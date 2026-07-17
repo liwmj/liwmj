@@ -26,14 +26,18 @@ jobs:
           python-version: '3.12'
 
       - name: Sync stars to Lists
+        if: ${{ github.event.inputs.reconcile != 'true' }}
         env:
           GH_STAR_TOKEN: ${{ secrets.STARS_PAT }}
         run: |
-          if [ "${{ github.event.inputs.reconcile }}" = "true" ]; then
-            python scripts/star_classifier.py liwmj --sync --ci --reconcile
-          else
-            python scripts/star_classifier.py liwmj --sync --ci
-          fi
+          python scripts/star_classifier.py liwmj --sync --ci
+
+      - name: Reconcile state with Lists
+        if: ${{ github.event.inputs.reconcile == 'true' }}
+        env:
+          GH_STAR_TOKEN: ${{ secrets.STARS_PAT }}
+        run: |
+          python scripts/star_classifier.py liwmj --reconcile --ci
 
       - name: Commit updated state files
         run: |
