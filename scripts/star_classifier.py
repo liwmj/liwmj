@@ -313,12 +313,13 @@ def fetch_repo_details(full_name, token=None):
 
 # ─── Output ───────────────────────────────────────────────────────────────────
 
-def generate_markdown(categorized):
+def generate_markdown(categorized, gen_time=None):
     """Generate a markdown report of categorized stars."""
+    ts = gen_time or datetime.now().strftime('%Y-%m-%d %H:%M')
     lines = []
     lines.append(f"# ⭐ GitHub Stars — Auto Categorized")
     lines.append(f"")
-    lines.append(f"> Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    lines.append(f"> Generated: {ts}")
     lines.append(f"> Total repos: {sum(len(v) for v in categorized.values())}")
     lines.append(f"")
     lines.append(f"---")
@@ -356,8 +357,9 @@ def generate_markdown(categorized):
     return "\n".join(lines)
 
 
-def generate_html(categorized):
+def generate_html(categorized, gen_time=None):
     """Generate a minimal HTML page with categorized stars."""
+    ts = gen_time or datetime.now().strftime('%Y-%m-%d %H:%M')
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -382,7 +384,7 @@ def generate_html(categorized):
 </head>
 <body>
 <h1>⭐ GitHub Stars — Categorized</h1>
-<p>Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')} | Total: {sum(len(v) for v in categorized.values())} repos</p>
+<p>Generated: {ts} | Total: {sum(len(v) for v in categorized.values())} repos</p>
 
 <div class="toc">
 <h3>Categories</h3>
@@ -763,12 +765,13 @@ def main():
             print(f"  {cat_name}: {len(repos)}{tag}")
 
     # 4. Output files
-    md = generate_markdown(categorized)
+    gen_time = state.get("_updated") if (is_ci or do_sync) else None
+    md = generate_markdown(categorized, gen_time=gen_time)
     with open("stars_categorized.md", "w", encoding="utf-8") as f:
         f.write(md)
     print("\n✅ Markdown → stars_categorized.md")
 
-    html = generate_html(categorized)
+    html = generate_html(categorized, gen_time=gen_time)
     with open("stars_categorized.html", "w", encoding="utf-8") as f:
         f.write(html)
     print("✅ HTML     → stars_categorized.html")

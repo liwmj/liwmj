@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add stars_state.json stars_data.json
+          git add stars_state.json stars_data.json stars_categorized.md stars_categorized.html
           if git diff --cached --quiet; then
             echo "No state changes to commit"
           else
