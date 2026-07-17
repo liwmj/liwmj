@@ -7,7 +7,7 @@
 
 ## 🤖 AI / ML / Data (162)
 
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** `TypeScript` ⭐383227 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞   
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** `TypeScript` ⭐383228 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞   
   `ai` `assistant` `crustacean` `molty` `openclaw`
 - **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** `C++` ⭐196316 — An Open Source Machine Learning Framework for Everyone  
   `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml`
@@ -19,7 +19,7 @@
   `agents` `llms` `python` `rag`
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** `Python` ⭐121108 — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.  
   `ai` `comfy` `comfyui` `python` `pytorch`
-- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `Python` ⭐86499 — A high-throughput and memory-efficient inference and serving engine for LLMs  
+- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `Python` ⭐86500 — A high-throughput and memory-efficient inference and serving engine for LLMs  
   `amd` `blackwell` `cuda` `deepseek` `deepseek-v3`
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` ⭐55679 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers  
   `agents` `ai` `ai-agents` `aiagentframework` `llms`
@@ -33,7 +33,7 @@
   `deep-learning` `examples` `machine-learning` `python` `tensorflow`
 - **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` ⭐41038 — Powerful AI Client  
   `assistant` `chatbot` `chatgpt` `claude` `claude-code`
-- **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** `Python` ⭐37500 — Build resilient agents.  
+- **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** `Python` ⭐37499 — Build resilient agents.  
   `agents` `ai` `ai-agents` `chatgpt` `deepagents`
 - **[BVLC/caffe](https://github.com/BVLC/caffe)** `C++` ⭐34572 — Caffe: a fast open framework for deep learning.  
   `deep-learning` `machine-learning` `vision`
@@ -264,7 +264,7 @@
 - **[ElemeFE/element](https://github.com/ElemeFE/element)** `Vue` ⭐54102 — A Vue.js 2.0 UI Toolkit for Web  
   `components` `element-ui` `javascript` `ui-kit` `vue`
 - **[mozilla/pdf.js](https://github.com/mozilla/pdf.js)** `JavaScript` ⭐53588 — PDF Reader in JavaScript
-- **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** `TypeScript` ⭐52178 — 一个基于 Electron 的音乐软件  
+- **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** `TypeScript` ⭐52179 — 一个基于 Electron 的音乐软件  
   `electron` `javascript` `music-player` `vue`
 - **[RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** `TypeScript` ⭐45808 — The Secure CommsOS™ for mission-critical operations  
   `chat` `collaboration` `foss` `free` `hacktoberfest`
@@ -760,7 +760,7 @@
 - **[flynn/flynn](https://github.com/flynn/flynn)** `Go` ⭐7848 — [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - **[visualfc/liteide](https://github.com/visualfc/liteide)** `C++` ⭐7761 — LiteIDE is a simple, open source, cross-platform Go IDE.   
   `cross-platform` `go` `golang` `ide` `liteide`
-- **[jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn)** ⭐7368 — Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。  
+- **[jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn)** ⭐7369 — Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。  
   `go` `golang`
 - **[go-co-op/gocron](https://github.com/go-co-op/gocron)** `Go` ⭐7104 — Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron  
   `clockwork` `cron` `gocron` `golang` `golang-job-scheduling`
@@ -1006,13 +1006,13 @@
 
 - **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` ⭐451918 — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  
   `careers` `certification` `community` `curriculum` `d3`
-- **[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)** `Batchfile` ⭐183420 — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with a  
+- **[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)** `Batchfile` ⭐183421 — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with a  
   `activator` `hwid` `kms` `kms38` `massgrave`
 - **[microsoft/PowerToys](https://github.com/microsoft/PowerToys)** `C` ⭐136518 — Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows  
   `advanced-paste` `color-picker` `command-palette` `desktop` `fancyzones`
 - **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` ⭐127714 — Virtual whiteboard for sketching hand-drawn like diagrams  
   `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest`
-- **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** `Rust` ⭐118212 — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl  
+- **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** `Rust` ⭐118213 — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl  
   `ai-tools` `claude-code` `codex` `desktop-app` `hermes`
 - **[2dust/v2rayN](https://github.com/2dust/v2rayN)** `C#` ⭐111571 — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others  
   `proxy` `shadowsocks` `socks5` `trojan` `v2fly`
@@ -1068,7 +1068,7 @@
   `commonmark` `compiler` `gfm` `hacktoberfest` `markdown`
 - **[pbatard/rufus](https://github.com/pbatard/rufus)** `C` ⭐36920 — The Reliable USB Formatting Utility  
   `bios` `boot` `bootable-drives` `freedos` `gpt`
-- **[nextcloud/server](https://github.com/nextcloud/server)** `PHP` ⭐36162 — ☁️ Nextcloud server, a safe home for all your data  
+- **[nextcloud/server](https://github.com/nextcloud/server)** `PHP` ⭐36163 — ☁️ Nextcloud server, a safe home for all your data  
   `cloud` `collaboration` `decentralized` `design` `distributed`
 - **[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** `Java` ⭐33654 — :fire: Android developers should collect the following utils(updating).  
   `android` `androidx` `app` `bar` `cache`
@@ -1105,7 +1105,7 @@
   `anticensorship` `censorship` `censorship-circumvention` `china` `gfw`
 - **[syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)** `Emacs Lisp` ⭐24565 — A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!  
   `community-driven` `configuration` `emacs` `spacemacs` `vim`
-- **[radareorg/radare2](https://github.com/radareorg/radare2)** `C` ⭐24361 — UNIX-like reverse engineering framework and command-line toolset  
+- **[radareorg/radare2](https://github.com/radareorg/radare2)** `C` ⭐24362 — UNIX-like reverse engineering framework and command-line toolset  
   `binary-analysis` `c` `commandline` `disassembler` `forensics`
 - **[lvgl/lvgl](https://github.com/lvgl/lvgl)** `C` ⭐24111 — Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.   
   `c` `embedded` `graphics` `gui` `mcu`
@@ -1136,7 +1136,7 @@
   `neovim` `neovim-plugin` `spacevim` `vim` `vim-plugin`
 - **[yanue/V2rayU](https://github.com/yanue/V2rayU)** ⭐20081 — V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等  
   `mac-v2ray` `v2ray` `v2ray-core` `v2ray-gui` `v2ray-mac`
-- **[rizinorg/cutter](https://github.com/rizinorg/cutter)** `C++` ⭐19365 — Free and Open Source Reverse Engineering Platform powered by rizin  
+- **[rizinorg/cutter](https://github.com/rizinorg/cutter)** `C++` ⭐19366 — Free and Open Source Reverse Engineering Platform powered by rizin  
   `cutter` `debugger` `gui` `reverse-engineering` `security`
 - **[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)** `C` ⭐18920 — Sandboxie Plus & Classic
 - **[uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)** `C++` ⭐18917 — Simple, secure & standards compliant web server for the most demanding of applications  
@@ -1733,7 +1733,7 @@
 
 ## 🛠️ DevOps / Infra (48)
 
-- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132178 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132179 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
 - **[Kong/kong](https://github.com/Kong/kong)** `Lua` ⭐43801 — 🦍 The API and AI Gateway  
   `ai` `ai-gateway` `api-gateway` `api-management` `apis`
 - **[harness/harness](https://github.com/harness/harness)** `Go` ⭐37359 — Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Develope  
@@ -1830,7 +1830,7 @@
 
 - **[d3/d3](https://github.com/d3/d3)** `Shell` ⭐113234 — Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:  
   `chart` `charts` `d3` `data-visualization` `svg`
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐102550 — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen  
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐102552 — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen  
   `awesome-list` `design-md` `design-system` `design-tokens` `figma`
 - **[ocornut/imgui](https://github.com/ocornut/imgui)** `C++` ⭐74709 — Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies  
   `api` `cplusplus` `framework` `game-development` `game-engine`
@@ -1847,9 +1847,9 @@
 
 ## 📚 Docs / Awesome / Learning (10)
 
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` ⭐526762 — Master programming by recreating your favorite technologies from scratch.  
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` ⭐526763 — Master programming by recreating your favorite technologies from scratch.  
   `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises`
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** ⭐485924 — 😎 Awesome lists about all kinds of interesting topics  
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** ⭐485925 — 😎 Awesome lists about all kinds of interesting topics  
   `awesome` `awesome-list` `lists` `resources` `unicorns`
 - **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** `TypeScript` ⭐361287 — Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
   `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap`
