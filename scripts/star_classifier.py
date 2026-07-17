@@ -665,11 +665,15 @@ def prune_unstarred(token, current_repos, state, dry_run=False):
     if not orphaned:
         return
 
-    # Safety: if ALL state entries appear orphaned, data is inconsistent — skip
+    # Data consistency check: if >50% of state entries have no match in current data,
+    # the state file is likely from a different data set or corrupted. Abort pruning
+    # and let the next full sync rebuild cleanly.
     state_entries = sum(1 for k in state if not k.startswith("_"))
-    if len(orphaned) == state_entries and state_entries > 10:
-        print(f"\n⚠️  All {state_entries} state entries appear orphaned — "
-              f"data inconsistency, skipping prune")
+    if len(orphaned) > state_entries * 0.5:
+        print(f"\n⚠️  {len(orphaned)}/{state_entries} state entries orphaned — "
+              f"state file appears stale/corrupted, skipping prune")
+        print(f"\n⚠️  {len(orphaned)}/{state_entries} state entries orphaned — "
+              f"state file appears stale/corrupted, skipping prune")
         return
 
     print(f"\n🧹 Pruning {len(orphaned)} un-starred repos from lists ...")
@@ -690,11 +694,12 @@ def prune_unstarred(token, current_repos, state, dry_run=False):
         if not dry_run:
             gql_request(token, merged)
 
-    # Clean up state
-    for node_id, _ in orphaned:
-        del state[node_id]
-    save_state(state)
-    print(f"  ✅ Removed {len(orphaned)} repos from lists + state")
+    # Clean up state (only in real mode)
+    if not dry_run:
+        for node_id, _ in orphaned:
+            del state[node_id]
+        save_state(state)
+    print(f"  {'Would remove' if dry_run else '✅ Removed'} {len(orphaned)} repos from lists + state")
 
 
 def sync_categories(token, categorized, state, dry_run=False, is_ci=False, all_repos=None):
@@ -709,9 +714,9 @@ def sync_categories(token, categorized, state, dry_run=False, is_ci=False, all_r
     if is_ci:
         print(f"  (CI mode: max {MAX_MUTATIONS_PER_RUN} mutations/run)\n")
 
-    # 0. TODO: prune disabled — removing all state entries due to node_id mismatch bug
-    # if all_repos:
-    #     prune_unstarred(token, all_repos, state, dry_run=dry_run)
+    # 0. Prune repos that were un-starred since last sync
+    if all_repos:
+        prune_unstarred(token, all_repos, state, dry_run=dry_run)
 
     # 1. Fetch existing lists
     print("  Fetching existing lists ...")
@@ -889,6 +894,17 @@ def main():
     # 5. Sync to GitHub Lists
     if do_sync:
         state = load_state()
+        state_count = sum(1 for k in state if not k.startswith("_"))
+        if is_ci and state_count < 100 and len(repos) > 200:
+            print(f"\n❌ CI mode: state has only {state_count} entries but {len(repos)} stars.")
+            print(f"   Run locally first: python3 scripts/star_classifier.py liwmj --sync")
+            sys.exit(1)
+
+        # Warn if >500 repos changed category (likely intentional rule change)
+        recat = sum(1 for r in repos if state.get(r.get("node_id","")) not in ("", classify_repo(r)))
+        if recat > 500:
+            print(f"\n⚠️  {recat} repos changed category since last sync (rule changes).")
+
         sync_categories(token, categorized, state, dry_run=dry_run, is_ci=is_ci, all_repos=repos)
 
 
