@@ -1,10 +1,6 @@
 name: Sync Stars Lists
 
 on:
-  push:
-    paths:
-      - 'scripts/star_classifier.py'
-      - '.github/workflows/sync-stars-lists.yml'
   schedule:
     - cron: '0 6 * * 1'
   workflow_dispatch:
