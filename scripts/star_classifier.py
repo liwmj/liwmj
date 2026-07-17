@@ -59,11 +59,16 @@ CATEGORIES = OrderedDict([
             "data", "neural-network", "transformer", "gpt", "openai",
             "langchain", "rag", "embedding", "vector-database",
             "computer-vision", "reinforcement-learning", "ml", "jax",
+            "agent", "ai-agent", "ai-agents", "deepseek", "llama",
+            "gemma", "llms", "chatgpt", "claude", "generative-ai",
+            "diffusion", "stable-diffusion", "chatbot", "assistant",
+            "text-generation", "multimodal", "vision-language-model",
         ],
         "languages": [],
         "desc": [
             "machine learning", "deep learning", "large language model",
             "neural network", "llm", "gpt", "transformer",
+            "ai agent", "llama", "chatgpt", "claude", "diffusion model",
         ],
         "priority": 10,
     }),
@@ -133,7 +138,8 @@ CATEGORIES = OrderedDict([
         "languages": ["HCL", "Dockerfile", "Shell"],
         "desc": [
             "docker", "kubernetes", "terraform", "infrastructure",
-            "ci/cd", "devops",
+            "ci/cd", "devops", "proxy", "nginx",
+            "api gateway", "load balancer",
         ],
         "priority": 7,
     }),
@@ -203,6 +209,15 @@ CATEGORIES = OrderedDict([
 ])
 
 
+# Languages that are too broad to be strong category signals.
+# These get +2 instead of +5 to avoid dominating over topic matches.
+WEAK_LANGUAGES = {
+    "JavaScript", "TypeScript", "HTML", "CSS", "SCSS",
+    "C", "C++", "Shell", "PHP", "Lua", "Ruby",
+    "Makefile", "Dockerfile", "Vim Script", "Perl", "Batchfile",
+}
+
+
 def classify_repo(repo):
     """Classify a single repo into the best-matching category."""
     topics = [t.lower() for t in repo.get("topics", []) or []]
@@ -247,15 +262,15 @@ def classify_repo(repo):
                             score += 2
                             break
 
-        # Language match
+        # Language match: strong languages +5, weak (multi-purpose) +2
         if language and language in rules["languages"]:
-            score += 5
+            score += 2 if language in WEAK_LANGUAGES else 5
 
         # Description match
         if description:
             for kw in rules["desc"]:
                 if kw in description:
-                    score += 1
+                    score += 2
 
         # Name match (weak)
         if name or full_name:
@@ -791,8 +806,7 @@ def main():
 
     # 1. Fetch stars
     data_file = "stars_data.json"
-    if is_ci:
-        # CI mode: always fetch fresh
+    if do_sync or is_ci:
         repos = None
     elif os.path.exists(data_file):
         use_cached = input(f"📁 {data_file} found. Use cached data? [Y/n]: ").strip().lower()

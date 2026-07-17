@@ -1,39 +1,45 @@
 # ⭐ GitHub Stars — Auto Categorized
 
-> Generated: 2026-07-17T19:21:39.791017
+> Generated: 2026-07-17T21:00:38.593546
 > Total repos: 1249
 
 ---
 
-## 🤖 AI / ML / Data (45)
+## 🤖 AI / ML / Data (58)
 
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** `TypeScript` ⭐383230 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞   
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** `TypeScript` ⭐383235 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞   
   `ai` `assistant` `crustacean` `molty` `openclaw`
 - **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** `C++` ⭐196316 — An Open Source Machine Learning Framework for Everyone  
   `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml`
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** `HTML` ⭐165888 — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos  
+- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` ⭐176306 — Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.  
+  `deepseek` `gemma` `gemma3` `glm` `go`
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** `HTML` ⭐165889 — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos  
   `ai` `artificial-intelligence` `awesome-list` `chatgpt` `chatgpt-prompts`
-- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` ⭐149138 — Production-ready platform for agentic workflow development.  
+- **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` ⭐149139 — Production-ready platform for agentic workflow development.  
   `agent` `agentic-ai` `agentic-framework` `agentic-workflow` `ai`
-- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** `Python` ⭐121108 — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.  
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `Python` ⭐123378 — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
+  `agents` `llms` `python` `rag`
+- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** `Python` ⭐121111 — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.  
   `ai` `comfy` `comfyui` `python` `pytorch`
 - **[opencv/opencv](https://github.com/opencv/opencv)** `C++` ⭐89975 — Open Source Computer Vision Library  
   `c-plus-plus` `computer-vision` `deep-learning` `image-processing` `opencv`
 - **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `Python` ⭐86501 — A high-throughput and memory-efficient inference and serving engine for LLMs  
   `amd` `blackwell` `cuda` `deepseek` `deepseek-v3`
-- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Python` ⭐69841 — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  
+- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Python` ⭐69842 — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  
   `ai` `ai-scraping` `automation` `crawler` `crawling`
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` ⭐55679 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers  
   `agents` `ai` `ai-agents` `aiagentframework` `llms`
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` ⭐53848 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails  
+- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` ⭐53849 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails  
   `ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway`
-- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** `Go` ⭐47583 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU requir  
+- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` ⭐48689 — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
+  `agent-skills` `ai-agent` `awesome-skills` `claude-code` `codex`
+- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** `Go` ⭐47584 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU requir  
   `agents` `ai` `api` `audio-generation` `decentralized`
 - **[apache/airflow](https://github.com/apache/airflow)** `Python` ⭐46152 — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
   `airflow` `apache` `apache-airflow` `automation` `dag`
 - **[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)** `Jupyter Notebook` ⭐43739 — TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)  
   `deep-learning` `examples` `machine-learning` `python` `tensorflow`
-- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` ⭐41038 — Powerful AI Client  
+- **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` ⭐41039 — Powerful AI Client  
   `assistant` `chatbot` `chatgpt` `claude` `claude-code`
 - **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** `Python` ⭐37499 — Build resilient agents.  
   `agents` `ai` `ai-agents` `chatgpt` `deepagents`
@@ -49,6 +55,10 @@
   `ai` `deep-fake` `deepfake` `face-swap` `faceswap`
 - **[labring/FastGPT](https://github.com/labring/FastGPT)** `TypeScript` ⭐29011 — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities suc  
   `agent` `claude` `deepseek` `llm` `mcp`
+- **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `Go` ⭐27122 — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.  
+  `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
+- **[libuv/libuv](https://github.com/libuv/libuv)** `C` ⭐27001 — Cross-platform asynchronous I/O  
+  `asynchronous` `deep-io` `io` `networking` `unicorns`
 - **[microsoft/JARVIS](https://github.com/microsoft/JARVIS)** `Python` ⭐25056 — JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf  
   `deep-learning` `platform` `pytorch`
 - **[haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA)** `Python` ⭐24928 — [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.  
@@ -59,7 +69,11 @@
   `deep-learning` `distributed-training` `efficiency` `machine-learning` `neural-network`
 - **[1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)** `Python` ⭐22114 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。  
   `agent` `agentic-ai` `chatbot` `deepseek-r1` `knowledgebase`
-- **[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)** `Shell` ⭐17473 — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/  
+- **[apache/mxnet](https://github.com/apache/mxnet)** `C++` ⭐20817 — Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; fo  
+  `mxnet`
+- **[Tencent/mars](https://github.com/Tencent/mars)** `C++` ⭐17636 — Mars is a cross-platform network component  developed by WeChat.  
+  `cross-platform` `log` `network` `wechat`
+- **[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)** `Shell` ⭐17474 — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/  
   `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 - **[cft0808/edict](https://github.com/cft0808/edict)** `Python` ⭐16230 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, a  
   `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
@@ -69,67 +83,79 @@
   `interview` `llm` `llm-interview` `llms`
 - **[casdoor/casdoor](https://github.com/casdoor/casdoor)** `Go` ⭐13964 — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI sup  
   `agent` `agentic-ai` `agi` `ai-gateway` `auth`
+- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** ⭐11787 — AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo  
+  `ai-painting` `dd5` `disco-diffusion` `stable-diffusion` `stable-diffusion-diffusers`
 - **[xorbitsai/inference](https://github.com/xorbitsai/inference)** `Python` ⭐9436 — Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal mode  
   `artificial-intelligence` `chatglm` `deployment` `flan-t5` `gemma`
-- **[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)** `TypeScript` ⭐8624 — 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Españ  
+- **[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)** `TypeScript` ⭐8623 — 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Españ  
   `ai` `ai-tools` `aigc` `chatgpt` `chatgpt-api`
 - **[tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer)** `Python` ⭐7383 — Deep Learning and Reinforcement Learning Library for Scientists and Engineers   
   `a3c` `artificial-intelligence` `chatbot` `deep-learning` `dqn`
 - **[EutropicAI/Final2x](https://github.com/EutropicAI/Final2x)** `TypeScript` ⭐7213 — a cross-platform image super-resolution tool  
   `computer-vision` `cross-platform` `electron` `i18n` `image-processing`
+- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` ⭐6862 — Play ChatGPT and other LLM with Xiaomi AI Speaker  
+  `chatgpt` `llms` `python` `xiaomi`
 - **[liuruoze/EasyPR](https://github.com/liuruoze/EasyPR)** `C++` ⭐6426 — (CGCSTCD'2017) An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situation  
   `artificial-intelligence` `artificial-neural-networks` `chinese-characters` `computer-vision` `datasets`
 - **[vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)** `JavaScript` ⭐6275 — ChatGPT for Mac, living in your menubar.  
   `chatgpt` `gpt-3` `macos` `menubar` `menubar-app`
 - **[datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)** `Dockerfile` ⭐5765 — AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www  
   `agent` `agentic-ai` `ai` `coding-assistant` `programming`
+- **[zxlie/FeHelper](https://github.com/zxlie/FeHelper)** `JavaScript` ⭐5641 — 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）  
+  `chatgpt` `chrome-extension` `code-beautify` `code-compress` `color-transfer`
 - **[XiaoMi/mace](https://github.com/XiaoMi/mace)** `C++` ⭐5042 — MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.  
   `deep-learning` `hvx` `machine-learning` `neon` `neural-network`
+- **[KnpLabs/snappy](https://github.com/KnpLabs/snappy)** `PHP` ⭐4475 — PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoim  
+  `hacktoberfest` `html-to-image` `html-to-pdf` `image-generation` `pdf-generation`
 - **[cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS)** `TypeScript` ⭐4194 — 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通  
   `ai` `autohotkey` `automation` `bilibili` `bot`
+- **[basil00/WinDivert](https://github.com/basil00/WinDivert)** `C` ⭐3219 — WinDivert: Windows Packet Divert  
+  `divert-sockets` `firewall` `network-programming` `packet-capture` `packet-sniffer`
 - **[allenai/XNOR-Net](https://github.com/allenai/XNOR-Net)** `Lua` ⭐871 — ImageNet classification using binary Convolutional Neural Networks
 - **[kubeflow/arena](https://github.com/kubeflow/arena)** `Go` ⭐815 — A CLI for Kubeflow.   
   `deep-learning` `docker` `kubeflow` `kubernetes` `tensorflow`
 - **[Palm1r/QodeAssist](https://github.com/Palm1r/QodeAssist)** `C++` ⭐425 — QodeAssist is an AI-powered coding assistant plugin for Qt Creator  
   `ai` `ai-agent` `ai-chat` `autocomplete` `claude`
+- **[TheQtCompanyRnD/agent-skills](https://github.com/TheQtCompanyRnD/agent-skills)** `QML` ⭐300 — Official Qt AI engineering skills for Claude Code, Codex, Copilot, Gemini,and other AI coding tools  
+  `ai-skills` `claude-code` `codex` `github-copilot` `qml`
 - **[ClarenceDan/chatGPT-Siri-Pro](https://github.com/ClarenceDan/chatGPT-Siri-Pro)** ⭐259 — Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key & sav  
   `chatgpt` `shortcuts` `siri`
 - **[tintoy/msbuild-project-tools-server](https://github.com/tintoy/msbuild-project-tools-server)** `C#` ⭐69 — Language server for MSBuild intellisense (including PackageReference completion).  
   `dotnet-core` `language-server-protocol` `language-service` `msbuild`
 
-## 🌐 Frontend / Web (226)
+## 🌐 Frontend / Web (225)
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` ⭐451919 — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** `TypeScript` ⭐451923 — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.  
   `careers` `certification` `community` `curriculum` `d3`
-- **[react/react](https://github.com/react/react)** `JavaScript` ⭐246545 — The library for web and native user interfaces.  
+- **[react/react](https://github.com/react/react)** `JavaScript` ⭐246546 — The library for web and native user interfaces.  
   `declarative` `frontend` `javascript` `library` `react`
-- **[microsoft/vscode](https://github.com/microsoft/vscode)** `TypeScript` ⭐187603 — Visual Studio Code  
+- **[microsoft/vscode](https://github.com/microsoft/vscode)** `TypeScript` ⭐187604 — Visual Studio Code  
   `editor` `electron` `microsoft` `typescript` `visual-studio-code`
-- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** `TypeScript` ⭐186750 — The open source coding agent.
+- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** `TypeScript` ⭐186758 — The open source coding agent.
 - **[vercel/next.js](https://github.com/vercel/next.js)** `JavaScript` ⭐140994 — The React Framework  
   `blog` `browser` `compiler` `components` `hybrid`
-- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` ⭐127716 — Virtual whiteboard for sketching hand-drawn like diagrams  
+- **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` ⭐127715 — Virtual whiteboard for sketching hand-drawn like diagrams  
   `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest`
 - **[electron/electron](https://github.com/electron/electron)** `C++` ⭐122062 — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS  
   `c-plus-plus` `chrome` `css` `electron` `html`
-- **[ant-design/ant-design](https://github.com/ant-design/ant-design)** `TypeScript` ⭐98754 — An enterprise-class UI design language and React UI library  
+- **[ant-design/ant-design](https://github.com/ant-design/ant-design)** `TypeScript` ⭐98755 — An enterprise-class UI design language and React UI library  
   `ant-design` `antd` `design-systems` `react` `typescript`
 - **[mui/material-ui](https://github.com/mui/material-ui)** `JavaScript` ⭐98607 — Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.  
   `design-system` `material-design` `material-ui` `react` `react-components`
 - **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** `TypeScript` ⭐95315 — JavaScript API for Chrome and Firefox  
   `automation` `chrome` `chromium` `developer-tools` `firefox`
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** `TypeScript` ⭐93013 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single A  
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** `TypeScript` ⭐93014 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single A  
   `automation` `chrome` `chromium` `e2e-testing` `electron`
 - **[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)** `Vue` ⭐90243 — :tada: A magical vue admin                                                                https://panjiachen.github.io/v  
   `admin` `admin-dashboard` `admin-template` `axios` `dashboard`
-- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** `TypeScript` ⭐89276 — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown  
+- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** `TypeScript` ⭐89277 — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown  
   `diagrams` `diagrams-as-code` `documentation` `flowchart` `javascript`
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `TypeScript` ⭐73999 — The open-source app everyone uses to manage agents at work
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `TypeScript` ⭐74002 — The open-source app everyone uses to manage agents at work
 - **[webpack/webpack](https://github.com/webpack/webpack)** `JavaScript` ⭐65844 — A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading pa  
   `amd` `build-tool` `commonjs` `compiler` `es2015`
 - **[socketio/socket.io](https://github.com/socketio/socket.io)** `TypeScript` ⭐63157 — Bidirectional and low-latency communication for every platform  
   `javascript` `nodejs` `socket-io` `websocket`
-- **[jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)** `JavaScript` ⭐62153 — Official electron build of draw.io  
+- **[jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)** `JavaScript` ⭐62154 — Official electron build of draw.io  
   `diagram-editor` `electron-app` `graphics` `javascript-applications`
 - **[reduxjs/redux](https://github.com/reduxjs/redux)** `TypeScript` ⭐61505 — A JS library for predictable global state management  
   `redux`
@@ -140,10 +166,8 @@
 - **[mozilla/pdf.js](https://github.com/mozilla/pdf.js)** `JavaScript` ⭐53588 — PDF Reader in JavaScript
 - **[agalwood/Motrix](https://github.com/agalwood/Motrix)** `JavaScript` ⭐52294 — A full-featured download manager.  
   `aria2` `bittorrent` `bt` `download` `download-manager`
-- **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** `TypeScript` ⭐52179 — 一个基于 Electron 的音乐软件  
+- **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** `TypeScript` ⭐52180 — 一个基于 Electron 的音乐软件  
   `electron` `javascript` `music-player` `vue`
-- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` ⭐48689 — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
-  `agent-skills` `ai-agent` `awesome-skills` `claude-code` `codex`
 - **[RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** `TypeScript` ⭐45808 — The Secure CommsOS™ for mission-critical operations  
   `chat` `collaboration` `foss` `free` `hacktoberfest`
 - **[ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)** `Astro` ⭐45513 — AdminLTE - Free admin dashboard template based on Bootstrap 5  
@@ -189,7 +213,7 @@
   `components` `mobile` `ui-kit` `ui-library` `vant`
 - **[iview/iview](https://github.com/iview/iview)** `Vue` ⭐23788 — A high quality UI Toolkit built on Vue.js 2.0  
   `components` `css` `design-systems` `frontend` `iview`
-- **[kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)** `TypeScript` ⭐23641 — Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready mono  
+- **[kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)** `TypeScript` ⭐23642 — Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready mono  
   `better-auth` `boilerplate` `bun` `cloudflare` `cloudflare-workers`
 - **[ipfs/ipfs](https://github.com/ipfs/ipfs)** ⭐23048 — Peer-to-peer hypermedia protocol  
   `ipfs` `ipfs-protocol` `ipfs-web` `ipld` `js-ipfs`
@@ -211,15 +235,15 @@
 - **[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)** `Vue` ⭐19629 — Vue3、Element Plus、typescript后台管理系统  
   `element-plus` `pinia` `typescript` `vue`
 - **[google/web-starter-kit](https://github.com/google/web-starter-kit)** `HTML` ⭐18291 — Web Starter Kit - a workflow for multi-device websites
-- **[plotly/plotly.js](https://github.com/plotly/plotly.js)** `JavaScript` ⭐18263 — Open-source JavaScript charting library behind Plotly and Dash  
-  `charting-library` `charts` `d3` `data-visualization` `plotly`
 - **[hzlzh/Best-App](https://github.com/hzlzh/Best-App)** ⭐17521 — 收集&推荐优秀的 Apps/硬件/技巧/周边等  
   `app` `mac` `macos`
-- **[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)** `TypeScript` ⭐17510 — 一个基于 React native 开发的音乐软件  
+- **[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)** `TypeScript` ⭐17511 — 一个基于 React native 开发的音乐软件  
   `javascript` `music-player` `react-native-app`
 - **[airyland/vux](https://github.com/airyland/vux)** `Vue` ⭐17474 — Mobile UI Components based on Vue & WeUI  
   `ant` `components` `javascript` `mobile-web` `vue`
 - **[facebookarchive/flux](https://github.com/facebookarchive/flux)** `JavaScript` ⭐17460 — Application Architecture for Building User Interfaces
+- **[source-foundry/Hack](https://github.com/source-foundry/Hack)** `Shell` ⭐17286 — A typeface designed for source code  
+  `developer` `developer-tools` `font` `hack` `ttf`
 - **[hubotio/hubot](https://github.com/hubotio/hubot)** `JavaScript` ⭐16794 — A customizable life embetterment robot.  
   `bot` `chat` `hubot`
 - **[emqx/emqx](https://github.com/emqx/emqx)** `Erlang` ⭐16524 — The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles  
@@ -237,7 +261,9 @@
   `babel` `boilerplate` `documentation` `electron` `electron-builder`
 - **[bower/bower](https://github.com/bower/bower)** `JavaScript` ⭐14919 — A package manager for the web  
   `bower` `front-end` `javascript` `package-manager`
-- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** `TypeScript` ⭐13912 — Your agent writes bad React. This catches it  
+- **[coturn/coturn](https://github.com/coturn/coturn)** `C` ⭐14210 — coturn TURN server project  
+  `networking` `server` `turn`
+- **[millionco/react-doctor](https://github.com/millionco/react-doctor)** `TypeScript` ⭐13913 — Your agent writes bad React. This catches it  
   `agents` `code-review` `doctor` `react` `skill`
 - **[novnc/noVNC](https://github.com/novnc/noVNC)** `JavaScript` ⭐13857 — VNC client web application  
   `arraybuffer` `html` `html-canvas` `html5` `javascript`
@@ -245,9 +271,13 @@
   `electron` `linux` `macos` `web-wechat` `wechat`
 - **[dcloudio/mui](https://github.com/dcloudio/mui)** `JavaScript` ⭐13475 — 最接近原生APP体验的高性能框架  
   `android` `css` `dcloud` `hbuilder` `ios`
+- **[SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN)** `C` ⭐13388 — Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github  
+  `etherip` `ike` `ipsec` `l2tp` `l2tpv3`
+- **[cesanta/mongoose](https://github.com/cesanta/mongoose)** `C` ⭐12942 — Embedded web server, with TCP/IP network stack, MQTT and Websocket  
+  `embedded` `http` `iot` `mqtt` `tcp`
 - **[svenstaro/genact](https://github.com/svenstaro/genact)** `Rust` ⭐12124 — 🌀 A nonsense activity generator  
   `cli` `fake` `hacktoberfest` `nonsense` `useless`
-- **[giscus/giscus](https://github.com/giscus/giscus)** `TypeScript` ⭐11923 — A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:  
+- **[giscus/giscus](https://github.com/giscus/giscus)** `TypeScript` ⭐11924 — A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:  
   `blog` `comment-system` `comments` `comments-widget` `giscus`
 - **[leanote/leanote](https://github.com/leanote/leanote)** `JavaScript` ⭐11691 — Not Just A Notepad! (golang + mongodb) http://leanote.org  
   `evernote` `leanote`
@@ -277,6 +307,8 @@
 - **[gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop)** `JavaScript` ⭐9493 — React UI Components for macOS High Sierra and Windows 10
 - **[swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)** `JavaScript` ⭐9459 — Swagger Editor  
   `hacktoberfest` `open-source` `openapi-specification` `openapi3` `openapi31`
+- **[AppImage/AppImageKit](https://github.com/AppImage/AppImageKit)** `C` ⭐9382 — Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSU  
+  `appimage` `applications` `deployment` `linux` `linux-app`
 - **[cnodejs/nodeclub](https://github.com/cnodejs/nodeclub)** `JavaScript` ⭐9301 — :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 - **[didi/cube-ui](https://github.com/didi/cube-ui)** `JavaScript` ⭐9110 — :large_orange_diamond: A fantastic mobile ui lib implement by Vue  
   `cube-ui` `javascript` `ui-library` `vue` `vue-components`
@@ -307,8 +339,6 @@
 - **[liftoff/GateOne](https://github.com/liftoff/GateOne)** `JavaScript` ⭐6299 — Gate One is an HTML5-powered terminal emulator and SSH client
 - **[square/crossfilter](https://github.com/square/crossfilter)** `JavaScript` ⭐6190 — Fast n-dimensional filtering and grouping of records.
 - **[sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)** `JavaScript` ⭐6057 — SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
-- **[zxlie/FeHelper](https://github.com/zxlie/FeHelper)** `JavaScript` ⭐5641 — 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）  
-  `chatgpt` `chrome-extension` `code-beautify` `code-compress` `color-transfer`
 - **[dotnet/msbuild](https://github.com/dotnet/msbuild)** `C#` ⭐5536 — The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.  
   `build` `hacktoberfest` `help-wanted` `microsoft` `msbuild`
 - **[spritejs/spritejs](https://github.com/spritejs/spritejs)** `JavaScript` ⭐5389 — A cross platform high-performance graphics system.  
@@ -325,8 +355,6 @@
 - **[l0o0/translators_CN](https://github.com/l0o0/translators_CN)** `JavaScript` ⭐4696 — Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo  
   `cnki` `javascript` `refworks` `scholar` `soopat`
 - **[simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC)** `JavaScript` ⭐4688 — Simplest WebRTC ever
-- **[KnpLabs/snappy](https://github.com/KnpLabs/snappy)** `PHP` ⭐4475 — PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoim  
-  `hacktoberfest` `html-to-image` `html-to-pdf` `image-generation` `pdf-generation`
 - **[pojala/electrino](https://github.com/pojala/electrino)** `C#` ⭐4396 — Desktop runtime for apps built on web technologies, using the system's own web browser engine  
   `desktop` `electron` `electronjs` `javascript` `macos`
 - **[chjj/tty.js](https://github.com/chjj/tty.js)** `JavaScript` ⭐4217 — A terminal for your browser, using node/express/socket.io
@@ -339,9 +367,10 @@
 - **[didi/mpx](https://github.com/didi/mpx)** `JavaScript` ⭐3909 — Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架  
   `alipay-mini-program` `development-framework` `miniprogram` `mpx` `reactive-programming`
 - **[tmallfe/tmallfe.github.io](https://github.com/tmallfe/tmallfe.github.io)** `HTML` ⭐3905 — 天猫前端
-- **[jdorn/sql-formatter](https://github.com/jdorn/sql-formatter)** `HTML` ⭐3851 — A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - **[parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard)** `JavaScript` ⭐3805 — A dashboard for managing Parse Server  
   `dashboard` `graphql` `hacktoberfest` `parse-platform` `parse-server`
+- **[Qihoo360/evpp](https://github.com/Qihoo360/evpp)** `C++` ⭐3763 — A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.  
+  `async-functions` `cpp11` `evmc` `evnsq` `evpp`
 - **[wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator)** `JavaScript` ⭐3469 — Alfred Youdao Translate Workflow  
   `alfred3-workflow` `translate`
 - **[ondras/my-mind](https://github.com/ondras/my-mind)** `TypeScript` ⭐3366 — Online Mindmapping Software  
@@ -353,6 +382,8 @@
 - **[egoist/devdocs-desktop](https://github.com/egoist/devdocs-desktop)** `JavaScript` ⭐3104 — 🗂 A full-featured desktop app for DevDocs.io.  
   `desktop-app` `devdocs` `hacktoberfest`
 - **[nqdeng/7-days-nodejs](https://github.com/nqdeng/7-days-nodejs)** `HTML` ⭐3085 — 七天学会NodeJS
+- **[Kurento/kurento-media-server](https://github.com/Kurento/kurento-media-server)** `C++` ⭐3055 — [ARCHIVED] Contents migrated to monorepo: https://github.com/Kurento/kurento  
+  `fiware` `kurento` `media-server`
 - **[AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage)** `JavaScript` ⭐3029 — 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 - **[frozenui/frozenui](https://github.com/frozenui/frozenui)** `HTML` ⭐2982 — FrozenUI的CSS组件库，基于腾讯手Q样式规范，腾讯QXD出品
 - **[wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio)** `TypeScript` ⭐2939 — Learn, Teach, Work and Play in the WebAssembly Studio
@@ -375,8 +406,6 @@
 - **[parse-community/parse-server-example](https://github.com/parse-community/parse-server-example)** `JavaScript` ⭐1905 — Example of Parse Server using the express framework.  
   `hacktoberfest` `parse-platform` `parse-server`
 - **[kindsoft/kindeditor](https://github.com/kindsoft/kindeditor)** `JavaScript` ⭐1898 — Try Lake, a new editor I developed
-- **[kwk/docker-registry-frontend](https://github.com/kwk/docker-registry-frontend)** `JavaScript` ⭐1689 — Browse and modify your Docker registry in a browser.
-- **[onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui)** `HTML` ⭐1683 — Nginx GUI Manager
 - **[kaola-fed/megalo](https://github.com/kaola-fed/megalo)** `JavaScript` ⭐1619 — 基于 Vue 的小程序开发框架
 - **[leanote/desktop-app](https://github.com/leanote/desktop-app)** `JavaScript` ⭐1560 — Leanote Desktop App, based on  Electron(atom-shell) http://leanote.org  
   `desktop` `electron` `leanote` `leanote-desktop`
@@ -393,8 +422,6 @@
 - **[etianen/html5media](https://github.com/etianen/html5media)** `JavaScript` ⭐1271 — Enables <video> and <audio> tags in all major browsers.
 - **[zhuzhuyule/HexoEditor](https://github.com/zhuzhuyule/HexoEditor)** `JavaScript` ⭐1228 — this markdown Editor for hexo blog  
   `electron-app` `hexoeditor` `hexomarkdown` `markdown` `markdown-editor`
-- **[eclipse-paho/paho.mqtt.javascript](https://github.com/eclipse-paho/paho.mqtt.javascript)** `JavaScript` ⭐1183 — paho.mqtt.javascript  
-  `mqtt`
 - **[cofess/hexo-theme-pure](https://github.com/cofess/hexo-theme-pure)** `CSS` ⭐1094 — Hexo theme pure. It's a pure theme for Hexo.  
   `blog-theme` `hexo` `hexo-awesome-theme` `hexo-blog` `hexo-blog-theme`
 - **[MyCATApache/Mycat-doc](https://github.com/MyCATApache/Mycat-doc)** `HTML` ⭐1075
@@ -436,12 +463,12 @@
   `java11` `jetty` `websocket` `websocket-client` `websocket-server`
 - **[mipengine/mip2](https://github.com/mipengine/mip2)** `JavaScript` ⭐181 — MIP (移动网页加速器)通过优化网页JS、控制资源加载顺序，达到加速网页的效果。  
   `mip` `webcomponents`
+- **[pi1ot/webapplib](https://github.com/pi1ot/webapplib)** `C++` ⭐175 — Web Application Library  
+  `c-plus-plus` `cgi` `mysql-client` `template` `web`
 - **[flash-dog/flash-dog](https://github.com/flash-dog/flash-dog)** `JavaScript` ⭐170 — flash-dog, a good friend for development , operation and maintenance !
 - **[fantasykai/vue-admin-manager](https://github.com/fantasykai/vue-admin-manager)** `Vue` ⭐168 — 整合 vue,element,echarts,video,bootstrap(AdminLTE),admin等，搭建的后台管理系统  
   `adminlte` `axios` `echarts` `element-ui` `mockjs`
 - **[yangsong158/chiner](https://github.com/yangsong158/chiner)** `JavaScript` ⭐163 — 中文：元数建模，一款丰富数据库生态，独立于具体数据库之外的，数据库关系模型设计平台。
-- **[Sloaix/qiniu4js](https://github.com/Sloaix/qiniu4js)** `TypeScript` ⭐162 — 🔥七牛上传SDK(浏览器环境)  
-  `qiniu` `qiniu-sdk` `qiniu-storage-bucket` `qiniu-uploader` `qiniuyun`
 - **[douban-code/douban-code.github.io](https://github.com/douban-code/douban-code.github.io)** `CSS` ⭐135 — Douban CODE Introduction.
 - **[yaniswang/hostsPlus](https://github.com/yaniswang/hostsPlus)** `JavaScript` ⭐131 — hostsPlus is a editor for hosts file.
 - **[DaoCloud/daochain](https://github.com/DaoCloud/daochain)** `JavaScript` ⭐124 — Docker image verification system based on Ethereum  
@@ -469,7 +496,7 @@
 
 ## 🦀 Rust (7)
 
-- **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** `Rust` ⭐118216 — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl  
+- **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** `Rust` ⭐118222 — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl  
   `ai-tools` `claude-code` `codex` `desktop-app` `hermes`
 - **[oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)** `Rust` ⭐26959 — Switch hosts quickly!  
   `electron` `hosts` `hostseditor` `hostsfile` `switch-hosts`
@@ -480,14 +507,12 @@
   `remote-access` `remote-control` `remote-desktop` `tauri`
 - **[rizsotto/Bear](https://github.com/rizsotto/Bear)** `Rust` ⭐6398 — Bear is a tool that generates a compilation database for clang tooling.  
   `build-system` `build-tool` `clang` `compilation-database`
-- **[jrsoftware/issrc](https://github.com/jrsoftware/issrc)** `Pascal` ⭐5495 — Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its  
+- **[jrsoftware/issrc](https://github.com/jrsoftware/issrc)** `Pascal` ⭐5496 — Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its  
   `inno-setup` `installer`
 
-## 🐍 Python (107)
+## 🐍 Python (106)
 
-- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `Python` ⭐123361 — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
-  `agents` `llms` `python` `rag`
-- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` ⭐103932
+- **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** `Python` ⭐103933
 - **[ansible/ansible](https://github.com/ansible/ansible)** `Python` ⭐69618 — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maint  
   `ansible` `python`
 - **[meta-llama/llama](https://github.com/meta-llama/llama)** `Python` ⭐59518 — Inference code for Llama models
@@ -495,7 +520,7 @@
   `client` `cookies` `forhumans` `http` `humans`
 - **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** `Python` ⭐44349 — An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.  
   `debugging` `http` `http2` `man-in-the-middle` `mitmproxy`
-- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` ⭐39488 — An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+- **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` ⭐39489 — An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` ⭐37583 — Convert PDF to markdown + JSON quickly with high accuracy
 - **[numpy/numpy](https://github.com/numpy/numpy)** `Python` ⭐32383 — The fundamental package for scientific computing with Python.  
   `numpy` `python`
@@ -513,7 +538,7 @@
 - **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** `Python` ⭐20345 — 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital 
 - **[plotly/plotly.py](https://github.com/plotly/plotly.py)** `Python` ⭐18682 — The interactive graphing library for Python :sparkles:  
   `d3` `dashboard` `declarative` `graph-library` `interactive`
-- **[Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)** `Python` ⭐16722 — Wan: Open and Advanced Large-Scale Video Generative Models  
+- **[Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)** `Python` ⭐16724 — Wan: Open and Advanced Large-Scale Video Generative Models  
   `aigc` `video-generation`
 - **[fabric/fabric](https://github.com/fabric/fabric)** `Python` ⭐15477 — Simple, Pythonic remote execution and deployment.
 - **[pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)** `Python` ⭐13038 — Freeze (package) Python programs into stand-alone executables  
@@ -534,8 +559,6 @@
 - **[lijin-THU/notes-python](https://github.com/lijin-THU/notes-python)** `Jupyter Notebook` ⭐7138 — 中文 Python 笔记  
   `anaconda` `matplotlib` `numpy` `python` `scipy`
 - **[taobao/nginx-book](https://github.com/taobao/nginx-book)** `Python` ⭐6968 — Nginx开发从入门到精通
-- **[yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)** `Python` ⭐6862 — Play ChatGPT and other LLM with Xiaomi AI Speaker  
-  `chatgpt` `llms` `python` `xiaomi`
 - **[graphite-project/graphite-web](https://github.com/graphite-project/graphite-web)** `JavaScript` ⭐6101 — A highly scalable real-time graphing system  
   `django` `graphite` `graphite-components` `graphite-web` `metrics`
 - **[deis/deis](https://github.com/deis/deis)** `Python` ⭐5997 — Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.   
@@ -549,17 +572,19 @@
   `git-plumbing` `git-porcelain` `python-library`
 - **[hynek/structlog](https://github.com/hynek/structlog)** `Python` ⭐4877 — Simple, powerful, and fast logging for Python.  
   `logging` `python` `structured-logging`
+- **[alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things)** `C` ⭐4626 — 面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings  
+  `embedded` `haas` `haas-python` `iot` `microcontroller`
 - **[zeromq/pyzmq](https://github.com/zeromq/pyzmq)** `Python` ⭐4156 — PyZMQ:  Python bindings for zeromq  
   `cython` `python` `zeromq`
 - **[luarocks/luarocks](https://github.com/luarocks/luarocks)** `Lua` ⭐3711 — LuaRocks is the package manager for the Lua programming language.  
   `lua` `lua-modules` `luajit` `luarocks` `package-management`
-- **[jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)** `Python` ⭐3453 — Converts profiling output to a dot graph.  
+- **[jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)** `Python` ⭐3454 — Converts profiling output to a dot graph.  
   `c-plus-plus` `graph` `profiling` `python`
 - **[ClusterHQ/flocker](https://github.com/ClusterHQ/flocker)** `Python` ⭐3382 — Container data volume manager for your Dockerized application
 - **[nagadomi/nunif](https://github.com/nagadomi/nunif)** `Python` ⭐3312 — Misc; latest version of waifu2x;  2D video to stereo 3D video conversion  
   `super-resolution` `vr` `waifu2x`
 - **[ros/ros](https://github.com/ros/ros)** `Python` ⭐3245 — Core ROS packages
-- **[XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco)** `Python` ⭐3116 — Xiaomi Miloco
+- **[XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco)** `Python` ⭐3117 — Xiaomi Miloco
 - **[lxml/lxml](https://github.com/lxml/lxml)** `Python` ⭐3044 — The lxml XML toolkit for Python
 - **[HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut)** `Python` ⭐2942 — Your most handy video processing software
 - **[docker-archive/docker-registry](https://github.com/docker-archive/docker-registry)** `Python` ⭐2885 — This is **DEPRECATED**! Please go to https://github.com/docker/distribution
@@ -597,7 +622,7 @@
   `inotify` `keyring` `microsoft-onedrive` `onedrive` `onedrive-client`
 - **[songhan/Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)** `Python` ⭐671 — Deep Compression on AlexNet
 - **[idank/bashlex](https://github.com/idank/bashlex)** `Python` ⭐638 — Python parser for bash
-- **[unitreerobotics/unifolm-vla](https://github.com/unitreerobotics/unifolm-vla)** `Python` ⭐521
+- **[unitreerobotics/unifolm-vla](https://github.com/unitreerobotics/unifolm-vla)** `Python` ⭐522
 - **[fniephaus/alfred-homebrew](https://github.com/fniephaus/alfred-homebrew)** `Python` ⭐463 — Easily control Homebrew with Alfred
 - **[deanishe/alfred-stackexchange](https://github.com/deanishe/alfred-stackexchange)** `Python` ⭐428 — Search StackOverflow.com from Alfred  
   `alfred` `alfred-workflow` `alfred4` `alfred4-workflow` `stack-overflow`
@@ -642,25 +667,23 @@
 - **[ilstar/Shorten-URL](https://github.com/ilstar/Shorten-URL)** `Python` ⭐7 — An Alfred workflow, it can help you to short your URL very quickly.
 - **[cc272309126/docker-registry-driver-glusterfs](https://github.com/cc272309126/docker-registry-driver-glusterfs)** `Python` ⭐2
 
-## 🐹 Go (69)
+## 🐹 Go (68)
 
-- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` ⭐176301 — Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.  
-  `deepseek` `gemma` `gemma3` `glm` `go`
 - **[golang/go](https://github.com/golang/go)** `Go` ⭐135280 — The Go programming language  
   `go` `golang` `language` `programming-language`
-- **[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** `Go` ⭐123783 — Production-Grade Container Scheduling and Management  
+- **[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** `Go` ⭐123785 — Production-Grade Container Scheduling and Management  
   `cncf` `containers` `go` `kubernetes`
 - **[fatedier/frp](https://github.com/fatedier/frp)** `Go` ⭐108110 — A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.  
   `expose` `firewall` `frp` `go` `http-proxy`
-- **[gohugoio/hugo](https://github.com/gohugoio/hugo)** `Go` ⭐89008 — The world’s fastest framework for building websites.  
+- **[gohugoio/hugo](https://github.com/gohugoio/hugo)** `Go` ⭐89009 — The world’s fastest framework for building websites.  
   `blog-engine` `cms` `content-management-system` `documentation-tool` `go`
-- **[gin-gonic/gin](https://github.com/gin-gonic/gin)** `Go` ⭐88918 — Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better  
+- **[gin-gonic/gin](https://github.com/gin-gonic/gin)** `Go` ⭐88919 — Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better  
   `framework` `gin` `go` `middleware` `performance`
 - **[caddyserver/caddy](https://github.com/caddyserver/caddy)** `Go` ⭐74119 — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS  
   `acme` `automatic-https` `caddy` `caddyfile` `go`
 - **[moby/moby](https://github.com/moby/moby)** `Go` ⭐71869 — The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems  
   `containers` `docker` `go` `golang`
-- **[etcd-io/etcd](https://github.com/etcd-io/etcd)** `Go` ⭐51994 — Distributed reliable key-value store for the most critical data of a distributed system  
+- **[etcd-io/etcd](https://github.com/etcd-io/etcd)** `Go` ⭐51995 — Distributed reliable key-value store for the most critical data of a distributed system  
   `cncf` `consensus` `database` `distributed-database` `distributed-systems`
 - **[docker/compose](https://github.com/docker/compose)** `Go` ⭐37862 — Define and run multi-container applications with Docker  
   `docker` `docker-compose` `go` `golang` `orchestration`
@@ -758,7 +781,7 @@
   `dom4g` `golang` `xml` `xml-parser`
 - **[liris/gopython](https://github.com/liris/gopython)** `Go` ⭐9 — Go Interface for Python
 
-## ☕ Java / JVM (127)
+## ☕ Java / JVM (128)
 
 - **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** `Java` ⭐77531 — Free and Open Source, Distributed, RESTful Search Engine  
   `elasticsearch` `java` `search-engine`
@@ -801,7 +824,6 @@
   `etl-framework` `java` `jruby` `logging` `real-time-processing`
 - **[apache/zookeeper](https://github.com/apache/zookeeper)** `Java` ⭐12779 — Apache ZooKeeper  
   `apache` `configuration-management` `consensus` `coordination` `database`
-- **[greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)** `Java` ⭐12593 — greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 - **[redis/jedis](https://github.com/redis/jedis)** `Java` ⭐12345 — Redis Java client  
   `java` `jedis` `redis` `redis-client` `redis-cluster`
 - **[grpc/grpc-java](https://github.com/grpc/grpc-java)** `Java` ⭐12052 — The Java gRPC implementation. HTTP/2 based RPC  
@@ -891,6 +913,8 @@
   `activerecord` `httpclient` `java` `restful` `server`
 - **[nordicsemi/Android-nRF-Toolbox](https://github.com/nordicsemi/Android-nRF-Toolbox)** `Kotlin` ⭐1215 — The nRF Toolbox is a container app that stores your Nordic Semiconductor apps for Bluetooth Low Energy in one location.
 - **[CNSRE/HTTPDNSLib](https://github.com/CNSRE/HTTPDNSLib)** `Java` ⭐1202
+- **[eclipse-paho/paho.mqtt.javascript](https://github.com/eclipse-paho/paho.mqtt.javascript)** `JavaScript` ⭐1183 — paho.mqtt.javascript  
+  `mqtt`
 - **[alibaba/taokeeper](https://github.com/alibaba/taokeeper)** `Java` ⭐1040 — ZooKeeper-Monitor, a monitor for zookeeper in java. Download https://github.com/alibaba/taokeeper/downloads
 - **[artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2)** `Vim script` ⭐965 — DEPRECATED in favor of jc.nvim  
   `completion` `completions` `java` `javacomplete` `javacomplete-plugin`
@@ -946,6 +970,7 @@
 - **[LuckyColorCloud/LoopAuth](https://github.com/LuckyColorCloud/LoopAuth)** `Java` ⭐48 — 一款JavaWeb鉴权框架，同时支持RBAC (角色鉴权校验)、ABAC (规则流引擎鉴权)，并提供会话管理等功能。  
   `abac` `java` `jwt` `rbac` `security`
 - **[EricssonResearch/openwebrtc-android-sdk](https://github.com/EricssonResearch/openwebrtc-android-sdk)** `Java` ⭐45 — SDK for adding OpenWebRTC to your Android app
+- **[alexyuyxj/mLua](https://github.com/alexyuyxj/mLua)** `C` ⭐40 — 一个参考luajava并进行了裁剪和改良的lua解析器
 - **[mcaserta/spring-crypto-utils](https://github.com/mcaserta/spring-crypto-utils)** `Java` ⭐40 — Cryptography in Java sucks, badly. Hopefully, not any more.  
   `cryptography` `java` `spring`
 - **[Cacifer/webrtcForAndroid](https://github.com/Cacifer/webrtcForAndroid)** `Java` ⭐39 — Android 手机的WebRTC 客户端
@@ -956,9 +981,9 @@
 - **[EricCheung3/MediaStreaming](https://github.com/EricCheung3/MediaStreaming)** `Java` ⭐2 — video streaming part and chatting system [libstreaming+amack library] 
 - **[duoshine/BluetoothTest](https://github.com/duoshine/BluetoothTest)** `Java` ⭐1 — 蓝牙设备指令测试工具
 
-## 🔧 C / C++ (306)
+## 🔧 C / C++ (271)
 
-- **[microsoft/PowerToys](https://github.com/microsoft/PowerToys)** `C` ⭐136519 — Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows  
+- **[microsoft/PowerToys](https://github.com/microsoft/PowerToys)** `C` ⭐136518 — Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows  
   `advanced-paste` `color-picker` `command-palette` `desktop` `fancyzones`
 - **[neovim/neovim](https://github.com/neovim/neovim)** `Vim Script` ⭐101190 — Vim-fork focused on extensibility and usability  
   `api` `c` `lua` `neovim` `nvim`
@@ -966,19 +991,19 @@
   `c` `c-plus-plus` `directshow` `facebook-live` `ffmpeg`
 - **[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)** `C++` ⭐71508 — Protocol Buffers - Google's data interchange format  
   `marshalling` `protobuf` `protobuf-runtime` `protoc` `protocol-buffers`
-- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** `C` ⭐62131 — Mirror of https://git.ffmpeg.org/ffmpeg.git  
+- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** `C` ⭐62134 — Mirror of https://git.ffmpeg.org/ffmpeg.git  
   `audio` `c` `ffmpeg` `fft` `hevc`
 - **[git/git](https://github.com/git/git)** `C` ⭐62067 — Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing l  
   `c` `hacktoberfest` `shell`
 - **[WerWolv/ImHex](https://github.com/WerWolv/ImHex)** `C++` ⭐54184 — 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.  
   `analyzer` `binary-analysis` `c-plus-plus` `cpp` `cybersecurity`
-- **[tmux/tmux](https://github.com/tmux/tmux)** `C` ⭐47812 — tmux source code
+- **[tmux/tmux](https://github.com/tmux/tmux)** `C` ⭐47813 — tmux source code
 - **[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)** `C++` ⭐45259 — 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - **[grpc/grpc](https://github.com/grpc/grpc)** `C++` ⭐45170 — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- **[aria2/aria2](https://github.com/aria2/aria2)** `C++` ⭐41457 — aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It suppo  
+- **[aria2/aria2](https://github.com/aria2/aria2)** `C++` ⭐41458 — aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It suppo  
   `bittorrent` `cpp11` `download` `ftp` `http`
 - **[wg/wrk](https://github.com/wg/wrk)** `C` ⭐40361 — Modern HTTP benchmarking tool
-- **[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)** `C++` ⭐39311 — Self-hosted game stream host for Moonlight.  
+- **[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)** `C++` ⭐39312 — Self-hosted game stream host for Moonlight.  
   `cpp` `docker` `flathub-pkg` `game-stream` `game-streaming`
 - **[google/leveldb](https://github.com/google/leveldb)** `C++` ⭐39248 — LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to strin
 - **[google/googletest](https://github.com/google/googletest)** `C++` ⭐38829 — GoogleTest - Google Testing and Mocking Framework
@@ -989,10 +1014,6 @@
   `cpp` `cpp11` `header-only` `logging` `spdlog`
 - **[ossrs/srs](https://github.com/ossrs/srs)** `C++` ⭐29059 — SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH  
   `ai-driven` `audio` `c-plus-plus` `dash` `hevc`
-- **[envoyproxy/envoy](https://github.com/envoyproxy/envoy)** `C++` ⭐28583 — Cloud-native high-performance edge/middle/service proxy  
-  `cars` `cats` `cats-over-dogs` `cncf` `corgis`
-- **[libuv/libuv](https://github.com/libuv/libuv)** `C` ⭐27001 — Cross-platform asynchronous I/O  
-  `asynchronous` `deep-io` `io` `networking` `unicorns`
 - **[radareorg/radare2](https://github.com/radareorg/radare2)** `C` ⭐24362 — UNIX-like reverse engineering framework and command-line toolset  
   `binary-analysis` `c` `commandline` `disassembler` `forensics`
 - **[lvgl/lvgl](https://github.com/lvgl/lvgl)** `C` ⭐24111 — Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.   
@@ -1006,15 +1027,11 @@
   `command-and-conquer` `open-source` `real-time-strategy` `rts`
 - **[catchorg/Catch2](https://github.com/catchorg/Catch2)** `C++` ⭐21226 — A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.  
   `bdd` `cpp` `cpp14` `framework` `no-dependencies`
-- **[apache/mxnet](https://github.com/apache/mxnet)** `C++` ⭐20817 — Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; fo  
-  `mxnet`
 - **[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)** `C` ⭐18921 — Sandboxie Plus & Classic
 - **[uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)** `C++` ⭐18917 — Simple, secure & standards compliant web server for the most demanding of applications  
   `commercial` `cross-platform` `http` `proxy-protocol` `pubsub`
 - **[swoole/swoole-src](https://github.com/swoole/swoole-src)** `C++` ⭐18895 — 🚀 Coroutine-based concurrency library for PHP  
   `concurrency` `coroutines` `event` `php` `swoole`
-- **[Tencent/mars](https://github.com/Tencent/mars)** `C++` ⭐17636 — Mars is a cross-platform network component  developed by WeChat.  
-  `cross-platform` `log` `network` `wechat`
 - **[apache/brpc](https://github.com/apache/brpc)** `C++` ⭐17557 — brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Sea  
   `rpc`
 - **[ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)** `C++` ⭐17303 — WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN ser  
@@ -1028,17 +1045,10 @@
   `bluetooth` `bluetooth-le` `embedded` `embedded-c` `iot`
 - **[Tencent/rapidjson](https://github.com/Tencent/rapidjson)** `C++` ⭐15107 — A fast JSON parser/generator for C++ with both SAX/DOM style API
 - **[memcached/memcached](https://github.com/memcached/memcached)** `C` ⭐14232 — memcached development tree
-- **[coturn/coturn](https://github.com/coturn/coturn)** `C` ⭐14210 — coturn TURN server project  
-  `networking` `server` `turn`
-- **[cloudwu/skynet](https://github.com/cloudwu/skynet)** `C` ⭐14099 — A lightweight online game framework
-- **[arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)** `C` ⭐14024 — NGINX-based Media Streaming Server
+- **[cloudwu/skynet](https://github.com/cloudwu/skynet)** `C` ⭐14100 — A lightweight online game framework
 - **[openresty/openresty](https://github.com/openresty/openresty)** `C` ⭐13947 — High Performance Web Platform Based on Nginx and LuaJIT
 - **[apache/incubator-weex](https://github.com/apache/incubator-weex)** `C++` ⭐13618 — Apache Weex (Incubating)  
   `weex`
-- **[SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN)** `C` ⭐13388 — Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github  
-  `etherip` `ike` `ipsec` `l2tp` `l2tpv3`
-- **[cesanta/mongoose](https://github.com/cesanta/mongoose)** `C` ⭐12942 — Embedded web server, with TCP/IP network stack, MQTT and Websocket  
-  `embedded` `http` `iot` `mqtt` `tcp`
 - **[cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)** `C++` ⭐12403 — A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - **[RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread)** `C` ⭐12110 — RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                        
   `aiot` `arm` `cortex-a` `cortex-m` `embedded-systems`
@@ -1046,7 +1056,6 @@
   `build` `build-tool` `c` `c-plus-plus` `cmake`
 - **[SFML/SFML](https://github.com/SFML/SFML)** `C++` ⭐11950 — Simple and Fast Multimedia Library  
   `audio` `c-plus-plus` `cross-platform` `games` `graphics`
-- **[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)** `C` ⭐11776 — Embed the Power of Lua into NGINX HTTP servers
 - **[h2o/h2o](https://github.com/h2o/h2o)** `C` ⭐11518 — H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - **[openalpr/openalpr](https://github.com/openalpr/openalpr)** `C++` ⭐11428 — Automatic License Plate Recognition library
 - **[EOSIO/eos](https://github.com/EOSIO/eos)** `C++` ⭐11183 — An open source smart contract platform   
@@ -1067,8 +1076,6 @@
   `cleaner` `foss` `mem-reduct` `memory` `memory-management`
 - **[conan-io/conan](https://github.com/conan-io/conan)** `Python` ⭐9450 — Conan - The open-source C and C++ package manager  
   `c` `cmake` `conan` `cplusplus` `cpp`
-- **[AppImage/AppImageKit](https://github.com/AppImage/AppImageKit)** `C` ⭐9382 — Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSU  
-  `appimage` `applications` `deployment` `linux` `linux-app`
 - **[happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)** `C` ⭐9235 — FastDFS is a high performance distributed file system (DFS). It's major functions include: file storing, file syncing an  
   `distributed-file-storage` `distributed-file-system` `storage-servers`
 - **[meetecho/janus-gateway](https://github.com/meetecho/janus-gateway)** `C` ⭐9128 — Janus WebRTC Server
@@ -1085,7 +1092,6 @@
 - **[ipkn/crow](https://github.com/ipkn/crow)** `C++` ⭐7625 — Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)  
   `c-plus-plus` `crow` `header-only` `webserver`
 - **[google/glog](https://github.com/google/glog)** `C++` ⭐7363 — C++ implementation of the Google logging module
-- **[sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher)** `C` ⭐7208 — SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - **[Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls)** `C` ⭐6818 — An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Crypto  
   `crypto` `cryptography-library` `psa` `ssl` `tls`
 - **[beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd)** `C` ⭐6698 — Beanstalk is a simple, fast work queue.
@@ -1113,9 +1119,6 @@
   `algorithm` `avl-tree` `b-tree` `c` `generic`
 - **[yedf2/handy](https://github.com/yedf2/handy)** `C++` ⭐4649 — 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework  
   `c` `c-plus-plus` `concurrent-programming` `cpp11` `epoll`
-- **[alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things)** `C` ⭐4626 — 面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings  
-  `embedded` `haas` `haas-python` `iot` `microcontroller`
-- **[Qihoo360/Atlas](https://github.com/Qihoo360/Atlas)** `C` ⭐4626 — A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 - **[acassen/keepalived](https://github.com/acassen/keepalived)** `C` ⭐4616 — Keepalived  
   `bfd` `c` `daemon` `high-availability` `infrastructure`
 - **[apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx)** `C++` ⭐4341 — Automatic PageSpeed optimization module for Nginx  
@@ -1128,8 +1131,6 @@
   `c-plus-plus` `c-plus-plus-11` `cpp` `crash-handler` `cross-platform`
 - **[facebookarchive/scribe](https://github.com/facebookarchive/scribe)** `C++` ⭐3912 — Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - **[contiki-os/contiki](https://github.com/contiki-os/contiki)** `C` ⭐3801 — The official git repository for Contiki, the open source OS for the Internet of Things
-- **[Qihoo360/evpp](https://github.com/Qihoo360/evpp)** `C++` ⭐3763 — A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.  
-  `async-functions` `cpp11` `evmc` `evnsq` `evpp`
 - **[fastos/fastsocket](https://github.com/fastos/fastsocket)** `C` ⭐3740 — Fastsocket is a highly scalable socket and its underlying networking implementation of Linux kernel. With the straight l
 - **[ireader/media-server](https://github.com/ireader/media-server)** `C` ⭐3489 — RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM  
   `flv` `fmp4` `hls` `m3u` `m3u8`
@@ -1140,14 +1141,9 @@
 - **[randombit/botan](https://github.com/randombit/botan)** `C++` ⭐3285 — Cryptography Toolkit  
   `c-plus-plus` `crypto` `cryptography` `cryptography-library` `tls`
 - **[lsalzman/enet](https://github.com/lsalzman/enet)** `C` ⭐3236 — ENet reliable UDP networking library 
-- **[basil00/WinDivert](https://github.com/basil00/WinDivert)** `C` ⭐3219 — WinDivert: Windows Packet Divert  
-  `divert-sockets` `firewall` `network-programming` `packet-capture` `packet-sniffer`
 - **[lynckia/licode](https://github.com/lynckia/licode)** `C++` ⭐3133 — Open Source Communication Provider based on WebRTC and Cloud technologies  
   `licode` `webrtc`
 - **[facebook/wangle](https://github.com/facebook/wangle)** `C++` ⭐3096 — Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modula
-- **[slact/nchan](https://github.com/slact/nchan)** `C` ⭐3065 — Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventS
-- **[Kurento/kurento-media-server](https://github.com/Kurento/kurento-media-server)** `C++` ⭐3055 — [ARCHIVED] Contents migrated to monorepo: https://github.com/Kurento/kurento  
-  `fiware` `kurento` `media-server`
 - **[gflags/gflags](https://github.com/gflags/gflags)** `C++` ⭐3024 — The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for
 - **[protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c)** `C++` ⭐2983 — Protocol Buffers implementation in C
 - **[google/breakpad](https://github.com/google/breakpad)** `C++` ⭐2890 — Mirror of Google Breakpad project  
@@ -1176,14 +1172,12 @@
 - **[equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt)** `C++` ⭐1996 — Neovim client library and GUI, in Qt5.  
   `neovim` `neovim-guis` `qt`
 - **[strukturag/libde265](https://github.com/strukturag/libde265)** `C++` ⭐1895 — Open h.265 video codec implementation.
-- **[weibocom/nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module)** `C` ⭐1848 — For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers 
 - **[EricssonResearch/openwebrtc](https://github.com/EricssonResearch/openwebrtc)** `C` ⭐1821 — A cross-platform WebRTC client framework based on GStreamer
 - **[jpbarrette/curlpp](https://github.com/jpbarrette/curlpp)** `C++` ⭐1802 — C++ wrapper around libcURL  
   `c-plus-plus` `curlpp` `libcurl` `transfer`
 - **[BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)** `C++` ⭐1716 — Colorizing text editor for ImGui  
   `autoindent` `c` `color-palette` `cplusplus` `glsl`
 - **[radareorg/iaito](https://github.com/radareorg/iaito)** `C++` ⭐1669 — Official radare2 GUI
-- **[yaoweibin/nginx_tcp_proxy_module](https://github.com/yaoweibin/nginx_tcp_proxy_module)** `C` ⭐1653 — add the feature of tcp proxy with nginx, with health check and status monitor
 - **[mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp)** `C++` ⭐1612 — C++ client for making HTTP/REST requests  
   `c-plus-plus` `http` `http-client` `libcurl` `packagecloud`
 - **[projectNe10/Ne10](https://github.com/projectNe10/Ne10)** `C` ⭐1534 — An open optimized software library project for the ARM® Architecture
@@ -1211,8 +1205,6 @@
   `bsd-license` `c` `fping` `icmp` `linux`
 - **[troglobit/inadyn](https://github.com/troglobit/inadyn)** `C` ⭐1157 — In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support  
   `c` `ddns` `ddns-client` `dynamic-dns` `dynamic-dns-client`
-- **[metartc/metaRTC](https://github.com/metartc/metaRTC)** `C` ⭐1135 — webrtc sdk for embedded / IoT / robotics devices  
-  `embeded` `webrtc` `webrtc-sdk` `whep` `whip`
 - **[graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser)** `C++` ⭐1106 — A GraphQL query parser in C++ with C and C++ APIs
 - **[docopt/docopt.cpp](https://github.com/docopt/docopt.cpp)** `C++` ⭐1087 — C++11 port of docopt
 - **[adamdunkels/uip](https://github.com/adamdunkels/uip)** `C` ⭐1074 — The historical uIP sources
@@ -1229,11 +1221,8 @@
   `avl-tree` `c-library` `connection-pool` `fastdfs` `id-generator`
 - **[obgm/libcoap](https://github.com/obgm/libcoap)** `C` ⭐912 — A CoAP (RFC 7252) implementation in C
 - **[AlloyTeam/Rythem](https://github.com/AlloyTeam/Rythem)** `C++` ⭐894 — a fiddler-like project using Qt
-- **[haproxy-unofficial-obsolete-mirrors/haproxy](https://github.com/haproxy-unofficial-obsolete-mirrors/haproxy)** `C` ⭐875 — UNOFFICIAL fork of haproxy development repository - ISSUE REPORTS ARE IGNORED!
 - **[ruslo/polly](https://github.com/ruslo/polly)** `CMake` ⭐869 —  :wrench: Collection of CMake toolchain files and scripts for cross-platform build and CI testing (GCC, Visual Studio, i  
   `appveyor` `cmake` `cmake-toolchain` `travis-ci`
-- **[alibaba/nginx-http-concat](https://github.com/alibaba/nginx-http-concat)** `C` ⭐866 — A Nginx module for concatenating files in a given context: CSS and JS files usually
-- **[jpmens/mosquitto-auth-plug](https://github.com/jpmens/mosquitto-auth-plug)** `C` ⭐838 — Authentication plugin for Mosquitto with multiple back-ends (MySQL, Redis, CDB, SQLite3)
 - **[laruence/yac](https://github.com/laruence/yac)** `C` ⭐828 — A fast, lock-free, shared memory user data cache for PHP  
   `c` `cache` `cache-storage` `lock-free` `php`
 - **[SOHUDBA/SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy)** `C` ⭐757 — 搜狐公司强大的数据库中间件
@@ -1242,8 +1231,6 @@
 - **[paulftw/hiberlite](https://github.com/paulftw/hiberlite)** `C++` ⭐725 — C++ ORM for SQLite
 - **[libinzhangyuan/asio_kcp](https://github.com/libinzhangyuan/asio_kcp)** `C++` ⭐720 — combine kcp with boost::asio.   - kcp: a Fast and Reliable udp protocal.
 - **[dmlc/minerva](https://github.com/dmlc/minerva)** `C++` ⭐712 — Minerva: a fast and flexible tool for deep learning on multi-GPU. It provides ndarray programming interface, just like N
-- **[platformio/platformio-examples](https://github.com/platformio/platformio-examples)** `C++` ⭐689 — PlatformIO Project Examples  
-  `examples` `platformio`
 - **[tatsuhiro-t/wslay](https://github.com/tatsuhiro-t/wslay)** `C` ⭐669 — The WebSocket library in C  
   `c` `websocket`
 - **[cgbsmy/TrayS](https://github.com/cgbsmy/TrayS)** `C` ⭐666 — TrayStyle
@@ -1252,8 +1239,6 @@
   `c-plus-plus` `opencv` `zxing`
 - **[EUA/wxHexEditor](https://github.com/EUA/wxHexEditor)** `C` ⭐615 — wxHexEditor official GIT repo  
   `disk` `editor` `hex` `hex-editor` `linux`
-- **[happyfish100/FastCFS](https://github.com/happyfish100/FastCFS)** `C` ⭐602 — A high performance distributed file system which can be used as the back-end storage of databases, K8s and VM etc.  
-  `cloud-native` `fuse-interface`
 - **[vinipsmaker/tufao](https://github.com/vinipsmaker/tufao)** `C++` ⭐597 — An asynchronous web framework for C++ built on top of Qt  
   `c-plus-plus` `http` `http-server` `qt` `qt-network`
 - **[Huawei/Huawei_LiteOS_Kernel](https://github.com/Huawei/Huawei_LiteOS_Kernel)** `C` ⭐592
@@ -1274,7 +1259,6 @@
 - **[xant/libhl](https://github.com/xant/libhl)** `C` ⭐449 — Simple and fast C library implementing a thread-safe API to manage hash-tables, linked lists, lock-free ring buffers and
 - **[cesanta/fossa](https://github.com/cesanta/fossa)** `C` ⭐446 — Async non-blocking multi-protocol networking library for C/C++
 - **[jcloudpub/speedy](https://github.com/jcloudpub/speedy)** `C` ⭐436 — a distributed docker image storage
-- **[happyfish100/fastdfs-nginx-module](https://github.com/happyfish100/fastdfs-nginx-module)** `C` ⭐433 — FastDFS nginx module
 - **[Jackarain/avplayer](https://github.com/Jackarain/avplayer)** `C++` ⭐431 — 一个基于FFmpeg、libtorrent的P2P播放器实现
 - **[qxmpp-project/qxmpp](https://github.com/qxmpp-project/qxmpp)** `C++` ⭐424 — Moved to KDE: https://invent.kde.org/libraries/qxmpp | Cross-platform C++ XMPP client and server library  
   `c-plus-plus` `cmake` `qt` `xmpp` `xmpp-library`
@@ -1282,8 +1266,6 @@
 - **[blueantst/DuiVision](https://github.com/blueantst/DuiVision)** `C++` ⭐416 — A DirectUI library  
   `directui`
 - **[macosforge/dss](https://github.com/macosforge/dss)** `C++` ⭐409 — Darwin Streaming Server is Apple's open source version of the QuickTime Streaming Server technology allowing you to send
-- **[metartc/yangwebrtc](https://github.com/metartc/yangwebrtc)** `C++` ⭐402 — A cross-platform WebRTC/RTMP/SRT SDK base on metaRTC  
-  `webrtc` `webrtc-sdk`
 - **[VerbalExpressions/CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)** `C++` ⭐389 — C++ regular expressions made easy
 - **[hmartiro/redox](https://github.com/hmartiro/redox)** `C++` ⭐386 — Modern, asynchronous, and wicked fast C++11 client for Redis
 - **[EasyDarwin/EasyAACEncoder](https://github.com/EasyDarwin/EasyAACEncoder)** `C` ⭐375 — 开源项目：简单、高效、稳定的开源音频编码库，支持将各种音频数据(G.711A/PCMA、G.711U/PCMU、G726、PCM)转码成AAC(with adts)格式，其中aac编码部分采用的是业界公认的faac库，EasyAACEnco  
@@ -1303,7 +1285,6 @@
 - **[oupula/ngx_image_thumb](https://github.com/oupula/ngx_image_thumb)** `C` ⭐282 — Nginx Image Module
 - **[jlaine/qdjango](https://github.com/jlaine/qdjango)** `C++` ⭐276 — QDjango, a Qt-based C++ web framework
 - **[dquist/EventBus](https://github.com/dquist/EventBus)** `C++` ⭐267 — A lightweight synchronous event framework for C++11
-- **[alibaba/nginx-http-sysguard](https://github.com/alibaba/nginx-http-sysguard)** `C` ⭐254 — A Nginx module to protect servers when system load or memory use goes too high.
 - **[i4tv/gstreamill](https://github.com/i4tv/gstreamill)** `C` ⭐248 — encoder with hls output based on gstreamer.  
   `encoder` `hls-live-streaming`
 - **[avplayer/avhttp](https://github.com/avplayer/avhttp)** `C++` ⭐239 — avhttp is concurrent http downloader
@@ -1313,11 +1294,6 @@
 - **[kynesim/tstools](https://github.com/kynesim/tstools)** `C` ⭐217 — Automatically exported from code.google.com/p/tstools
 - **[bungle/lua-resty-nettle](https://github.com/bungle/lua-resty-nettle)** `Lua` ⭐185 — LuaJIT FFI bindings for Nettle (a low-level cryptographic library) 
 - **[hackers-painters/katana-parser](https://github.com/hackers-painters/katana-parser)** `C` ⭐183 — A CSS parsing library in pure C99
-- **[xiaokai-wang/nginx-stream-upsync-module](https://github.com/xiaokai-wang/nginx-stream-upsync-module)** `C` ⭐177 — For stream protocol. syncing upstreams from etcd or consul and so on, dynamically updating backend servers attribute, no
-- **[grahamedgecombe/nginx-ct](https://github.com/grahamedgecombe/nginx-ct)** `C` ⭐176 — Certificate Transparency module for nginx.  
-  `c` `certificate-transparency` `nginx`
-- **[pi1ot/webapplib](https://github.com/pi1ot/webapplib)** `C++` ⭐175 — Web Application Library  
-  `c-plus-plus` `cgi` `mysql-client` `template` `web`
 - **[libgit2/luagit2](https://github.com/libgit2/luagit2)** `C` ⭐174 — Lua bindings for libgit2
 - **[vapourismo/luwra](https://github.com/vapourismo/luwra)** `C++` ⭐173 — Minimal-overhead C++ wrapper for Lua  
   `cpp` `cpp11` `lua` `wrapper`
@@ -1325,14 +1301,9 @@
 - **[BelledonneCommunications/ortp](https://github.com/BelledonneCommunications/ortp)** `C` ⭐166 — Linphone.org mirror for ortp (git://git.linphone.org/ortp.git)
 - **[Ansersion/myRtspClient](https://github.com/Ansersion/myRtspClient)** `C++` ⭐164 — A RTSP client based on jrtplib
 - **[Neopallium/lua-zmq](https://github.com/Neopallium/lua-zmq)** `C` ⭐158 — Lua zeromq2 binding
-- **[EasyDarwin/EasyAudioDecoder](https://github.com/EasyDarwin/EasyAudioDecoder)** `C` ⭐155 — 开源项目：简单、高效、稳定的开源音频解码库，能够将G.711A/PCMA、G.711U/PCMU、G726、AAC等音频格式转码到Linear PCM，再提供给流媒体播放器进行音频播放，EasyAudioDecoder支持跨平台，支持And  
-  `aac-decoder` `android-audio-decoder` `audio-decoder` `easydarwin` `g711-decoder`
 - **[c9s/h3](https://github.com/c9s/h3)** `C` ⭐137 — The Fast HTTP header parser library
 - **[BelledonneCommunications/bcg729](https://github.com/BelledonneCommunications/bcg729)** `C` ⭐134 —  Linphone.org mirror for bcg729 (git://git.linphone.org/bcg729.git)
-- **[alibaba/nginx-http-footer-filter](https://github.com/alibaba/nginx-http-footer-filter)** `C` ⭐128 — A nginx module that prints some text in the footer of a request
 - **[wangbin579/udpcopy](https://github.com/wangbin579/udpcopy)** `C` ⭐127 — It is an online UDP duplication tool designed for testing purposes.
-- **[im-pingo/nginx-rtmp-module](https://github.com/im-pingo/nginx-rtmp-module)** `C` ⭐118 — hls+/http-ts/http-flv/rtmp/hls/dash/h265/h264/aac/mp3/notify/pull/push  
-  `dash` `flv-live` `flv-server` `flv-stream` `flvjs`
 - **[stvchu/memcacheq](https://github.com/stvchu/memcacheq)** `C` ⭐118 — Simple Queue Service over Memcache
 - **[LiminWang/simple-rtmp-server](https://github.com/LiminWang/simple-rtmp-server)** `C++` ⭐116 — simple rtmp origin live server over state-threads.
 - **[svn2github/webrtc](https://github.com/svn2github/webrtc)** `C++` ⭐114 — This is a clone of an SVN repository at http://webrtc.googlecode.com/svn/trunk. It had been cloned by http://svn2github.
@@ -1355,7 +1326,6 @@
 - **[rryqszq4/ngx_python](https://github.com/rryqszq4/ngx_python)** `C` ⭐44 — ngx_python - Simple embedded python for nginx-module.
 - **[lucklove/ahttpd](https://github.com/lucklove/ahttpd)** `C++` ⭐44 — 异步网络框架
 - **[commontk/QtSOAP](https://github.com/commontk/QtSOAP)** `C++` ⭐42 — The Qt SOAP project provides basic web service support with version 1.1 of the SOAP protocol. It is fork of 
-- **[alexyuyxj/mLua](https://github.com/alexyuyxj/mLua)** `C` ⭐40 — 一个参考luajava并进行了裁剪和改良的lua解析器
 - **[xiaolongba/HX_DK_FOR_ESP32](https://github.com/xiaolongba/HX_DK_FOR_ESP32)** `C` ⭐39 — 该代码仓主要用于发布基于红旭开发板的ESP32教程（This repository is mainly to publish the ESP32 tutorials based on the HX DK）
 - **[avplayer/torrent_server](https://github.com/avplayer/torrent_server)** `C++` ⭐37 — 一个用于avplayer播放器的p2p下载的后端实现. . .
 - **[17mon/c](https://github.com/17mon/c)** `C` ⭐36
@@ -1373,7 +1343,6 @@
 - **[youusername/magnet_qt](https://github.com/youusername/magnet_qt)** `C++` ⭐18
 - **[nanolith/mockcpp](https://github.com/nanolith/mockcpp)** `C++` ⭐18 — Mock++: A Portable Mocking Framework for C++11
 - **[ashumeow/webrtc4all](https://github.com/ashumeow/webrtc4all)** `C++` ⭐15 — Automatically exported from code.google.com/p/webrtc4all
-- **[roast/nginx-token](https://github.com/roast/nginx-token)** `C` ⭐12 — A token module for nginx based on memcache.
 - **[avplayer/avupdate](https://github.com/avplayer/avupdate)** `C` ⭐12 — 一个用于自动更新的解决方案...
 - **[alimon/http-tiny](https://github.com/alimon/http-tiny)** `C` ⭐10 — http-tiny library improvments (POST, Auth, Thread)
 - **[kof98765/rtspServer](https://github.com/kof98765/rtspServer)** `C` ⭐9 — 一个rtsp服务器的实现  
@@ -1382,19 +1351,20 @@
 - **[pizberg/md5](https://github.com/pizberg/md5)** `C` ⭐5
 - **[svn2github/gtest](https://github.com/svn2github/gtest)** `C++` ⭐4 — This is a clone of an SVN repository at http://googletest.googlecode.com/svn/trunk. It had been cloned by http://svn2git
 - **[blighli/myOCR](https://github.com/blighli/myOCR)** `C++` ⭐4
+- **[dbarkar/boost-android](https://github.com/dbarkar/boost-android)** `Shell` ⭐2 — Port of Boost C++ libraries for android platform
 - **[IOsipov/adns-python](https://github.com/IOsipov/adns-python)** `C` ⭐1 — Automatically exported from code.google.com/p/adns-python
 
 ## 📱 Mobile (45)
 
-- **[flutter/flutter](https://github.com/flutter/flutter)** `Dart` ⭐177781 — Flutter makes it easy and fast to build beautiful apps for mobile and beyond  
+- **[flutter/flutter](https://github.com/flutter/flutter)** `Dart` ⭐177782 — Flutter makes it easy and fast to build beautiful apps for mobile and beyond  
   `android` `app-framework` `cross-platform` `dart` `dart-platform`
-- **[react/react-native](https://github.com/react/react-native)** `C++` ⭐126217 — A framework for building native applications using React  
+- **[react/react-native](https://github.com/react/react-native)** `C++` ⭐126218 — A framework for building native applications using React  
   `android` `app-framework` `cross-platform` `ios` `mobile`
-- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** `Rust` ⭐118421 — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.  
+- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** `Rust` ⭐118424 — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.  
   `android` `anydesk` `dart` `flatpak` `flutter`
-- **[2dust/v2rayNG](https://github.com/2dust/v2rayNG)** `Kotlin` ⭐59664 — A V2Ray client for Android, support Xray core and v2fly core  
+- **[2dust/v2rayNG](https://github.com/2dust/v2rayNG)** `Kotlin` ⭐59665 — A V2Ray client for Android, support Xray core and v2fly core  
   `android` `proxy` `shadowsocks` `socks5` `trojan`
-- **[iina/iina](https://github.com/iina/iina)** `Swift` ⭐45607 — The modern video player for macOS.  
+- **[iina/iina](https://github.com/iina/iina)** `Swift` ⭐45608 — The modern video player for macOS.  
   `hacktoberfest` `macos` `mpv` `swift` `video`
 - **[dcloudio/uni-app](https://github.com/dcloudio/uni-app)** `Objective-C` ⭐41580 — A cross-platform framework using Vue.js  
   `android` `cross-platform` `crossplatform` `hbuilderx` `ios`
@@ -1404,7 +1374,7 @@
   `android` `ffmpeg` `ijkplayer` `ios` `player`
 - **[barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)** `C++` ⭐30569 — Android real-time display control software  
   `android` `qt`
-- **[GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)** `Go` ⭐25265 —   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.  
+- **[GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)** `Go` ⭐25266 —   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.  
   `android` `bittorrent` `cross-platform` `debian` `downloader`
 - **[liriliri/eruda](https://github.com/liriliri/eruda)** `JavaScript` ⭐21099 — Console for mobile browsers  
   `console` `debugger` `developer-tools` `eruda` `mobile`
@@ -1445,8 +1415,6 @@
   `hacktoberfest` `ios` `nextcloud` `open-source`
 - **[youusername/magnetX](https://github.com/youusername/magnetX)** `Objective-C` ⭐1982 — 资源搜索型软件 macOS OSX magnet  
   `download` `for-os-x` `link` `magnet` `magnet-link`
-- **[parse-community/Parse-SDK-Android](https://github.com/parse-community/Parse-SDK-Android)** `Java` ⭐1881 — The Android SDK for Parse Platform  
-  `android` `hacktoberfest` `parse` `parse-android` `parse-platform`
 - **[novastone-media/MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework)** `Objective-C` ⭐1880 — iOS, macOS, tvOS native ObjectiveC MQTT Client Framework  
   `mqtt` `mqtt-client` `objective-c`
 - **[lakeinchina/librestreaming](https://github.com/lakeinchina/librestreaming)** `C` ⭐955 — Android real-time effect filter rtmp streaming library.using Mediacodec HWencoding&librtmp stream.  
@@ -1462,13 +1430,15 @@
 - **[yangchao0033/HLS-Demo](https://github.com/yangchao0033/HLS-Demo)** `Objective-C` ⭐286 — IOS HLS视频直播样例
 - **[tattali/QLAddict](https://github.com/tattali/QLAddict)** `Objective-C` ⭐161 — A QuickLook plugin that lets you view subtitles .srt files like Addic7ed.com on mac  
   `macos` `quicklook` `quicklook-plugin` `subtitles`
+- **[EasyDarwin/EasyAudioDecoder](https://github.com/EasyDarwin/EasyAudioDecoder)** `C` ⭐155 — 开源项目：简单、高效、稳定的开源音频解码库，能够将G.711A/PCMA、G.711U/PCMU、G726、AAC等音频格式转码到Linear PCM，再提供给流媒体播放器进行音频播放，EasyAudioDecoder支持跨平台，支持And  
+  `aac-decoder` `android-audio-decoder` `audio-decoder` `easydarwin` `g711-decoder`
 - **[client9/stringencoders](https://github.com/client9/stringencoders)** `Objective-C` ⭐138 — Fast c-string transformations
 - **[whiteblue3/HTTPLiveStreaming](https://github.com/whiteblue3/HTTPLiveStreaming)** `Objective-C` ⭐86 — iOS / Mac OSX H.264 / AAC Hardware Encoding and Streaming over RTP / RTSP using Video Tool Box
 - **[EricssonResearch/openwebrtc-ios-sdk](https://github.com/EricssonResearch/openwebrtc-ios-sdk)** `Objective-C` ⭐67 — SDK for adding OpenWebRTC to your iOS apps using CocoaPods 
 
-## 🛠️ DevOps / Infra (58)
+## 🛠️ DevOps / Infra (84)
 
-- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132180 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132184 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
 - **[Kong/kong](https://github.com/Kong/kong)** `Lua` ⭐43801 — 🦍 The API and AI Gateway  
   `ai` `ai-gateway` `api-gateway` `api-management` `apis`
 - **[istio/istio](https://github.com/istio/istio)** `Go` ⭐38286 — Connect, secure, control, and observe services.  
@@ -1477,30 +1447,35 @@
   `build-automation` `build-pipelines` `ci` `ci-cd` `code-repository`
 - **[goharbor/harbor](https://github.com/goharbor/harbor)** `Go` ⭐28949 — An open source trusted cloud native registry project that stores, signs, and scans content.  
   `cloud-native` `cncf` `cncf-project` `container` `container-management`
-- **[openfaas/faas](https://github.com/openfaas/faas)** `Go` ⭐26205 — OpenFaaS - Serverless Functions Made Simple  
+- **[envoyproxy/envoy](https://github.com/envoyproxy/envoy)** `C++` ⭐28583 — Cloud-native high-performance edge/middle/service proxy  
+  `cars` `cats` `cats-over-dogs` `cncf` `corgis`
+- **[openfaas/faas](https://github.com/openfaas/faas)** `Go` ⭐26204 — OpenFaaS - Serverless Functions Made Simple  
   `docker` `faas` `functions` `functions-as-a-service` `gitops`
 - **[rancher/rancher](https://github.com/rancher/rancher)** `Go` ⭐25747 — Complete container management platform  
   `cattle` `containers` `docker` `kubernetes` `orchestration`
-- **[source-foundry/Hack](https://github.com/source-foundry/Hack)** `Shell` ⭐17286 — A typeface designed for source code  
-  `developer` `developer-tools` `font` `hack` `ttf`
 - **[ceph/ceph](https://github.com/ceph/ceph)** `C++` ⭐16834 — Ceph is a distributed object, block, and file storage platform   
   `block-storage` `cloud-storage` `distributed-file-system` `distributed-storage` `erasure-coding`
+- **[arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)** `C` ⭐14025 — NGINX-based Media Streaming Server
 - **[alibaba/tengine](https://github.com/alibaba/tengine)** `C` ⭐13298 — A distribution of Nginx with some advanced features  
   `http3` `ingress` `nginx` `quic` `tengine`
 - **[p8952/bocker](https://github.com/p8952/bocker)** `Shell` ⭐12664 — Docker implemented in around 100 lines of bash
 - **[docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic)** `JavaScript` ⭐12136 — Visual Docker Container Management on Mac & Windows  
   `containers` `docker` `electron` `electron-app` `kitematic`
+- **[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)** `C` ⭐11776 — Embed the Power of Lua into NGINX HTTP servers
 - **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** `Go` ⭐10769 — Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols  
   `api` `api-gateway` `api-management` `cloudnative` `go`
 - **[kubernetes/kompose](https://github.com/kubernetes/kompose)** `Go` ⭐10568 — Convert Compose to Kubernetes  
   `containers` `docker` `docker-compose` `go` `kubernetes`
+- **[Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM)** `PHP` ⭐10381 — Multi-purpose proxy service management system
 - **[eclipse-che/che](https://github.com/eclipse-che/che)** `TypeScript` ⭐7152 — Kubernetes based Cloud Development Environments for Enterprise Teams  
   `cloud` `cloud-ide` `containers` `devtools` `eclipse`
-- **[docker-library/official-images](https://github.com/docker-library/official-images)** `Shell` ⭐6985 — Primary source of truth for the Docker "Official Images" program
+- **[docker-library/official-images](https://github.com/docker-library/official-images)** `Shell` ⭐6986 — Primary source of truth for the Docker "Official Images" program
 - **[ehazlett/shipyard](https://github.com/ehazlett/shipyard)** ⭐6326 — Composable Docker Management
 - **[docker-library/docs](https://github.com/docker-library/docs)** `Shell` ⭐5283 — Documentation for Docker Official Images in docker-library  
   `hacktoberfest`
+- **[Qihoo360/Atlas](https://github.com/Qihoo360/Atlas)** `C` ⭐4626 — A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 - **[docker-archive/toolbox](https://github.com/docker-archive/toolbox)** `Inno Setup` ⭐3239 — The Docker Toolbox
+- **[slact/nchan](https://github.com/slact/nchan)** `C` ⭐3065 — Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventS
 - **[zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker)** `Dockerfile` ⭐2813 — Official Zabbix Dockerfiles  
   `docker` `docker-image` `monitoring` `zabbix`
 - **[lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat)** `Shell` ⭐2764 — 微信小助手的安装 / 更新工具。  
@@ -1509,11 +1484,17 @@
   `agile` `choerodon` `containers` `devops` `enterprise`
 - **[orlabs/orange](https://github.com/orlabs/orange)** `Lua` ⭐2308 — OpenResty/Nginx Gateway for API Monitoring and Management.  
   `api` `gateway` `lor` `monitoring` `nginx`
+- **[yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module)** `Perl` ⭐2145 — Health checks upstreams for nginx
 - **[ledgetech/lua-resty-http](https://github.com/ledgetech/lua-resty-http)** `Lua` ⭐2077 — Lua HTTP client cosocket driver for OpenResty / ngx_lua.  
   `http` `http-client` `lua` `luajit` `nginx`
 - **[CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles)** `Shell` ⭐1866 — Dockerfiles for various common implementations
+- **[weibocom/nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module)** `C` ⭐1848 — For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers 
 - **[coding/WebIDE](https://github.com/coding/WebIDE)** `Shell` ⭐1727 — Coding WebIDE Community Edition  
   `docker` `ide` `java-8` `web-ide`
+- **[kwk/docker-registry-frontend](https://github.com/kwk/docker-registry-frontend)** `JavaScript` ⭐1689 — Browse and modify your Docker registry in a browser.
+- **[onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui)** `HTML` ⭐1683 — Nginx GUI Manager
+- **[openresty/openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit)** `Perl` ⭐1669 — Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap
+- **[yaoweibin/nginx_tcp_proxy_module](https://github.com/yaoweibin/nginx_tcp_proxy_module)** `C` ⭐1653 — add the feature of tcp proxy with nginx, with health check and status monitor
 - **[NetEaseGame/git-webhook](https://github.com/NetEaseGame/git-webhook)** `Python` ⭐1527 — :octocat: 使用 Python Flask + SQLAchemy + Celery + Redis + React 开发的用于迅速搭建并使用  WebHook 进行自动化部署和运维，支持 Github / GitLab / Gog  
   `docker` `git-webhook` `github` `gitlab` `gogs`
 - **[deis/workflow](https://github.com/deis/workflow)** `CSS` ⭐1306 — The open source PaaS for Kubernetes.  
@@ -1526,10 +1507,13 @@
 - **[xdtianyu/scripts](https://github.com/xdtianyu/scripts)** `Shell` ⭐1023 — scripts for work
 - **[saltstack/salt-bootstrap](https://github.com/saltstack/salt-bootstrap)** `Shell` ⭐952 — Generic Salt Bootstrap Script
 - **[atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui)** `Groovy` ⭐893 — A web frontend/UI for easy private/local Docker Registry integration
+- **[haproxy-unofficial-obsolete-mirrors/haproxy](https://github.com/haproxy-unofficial-obsolete-mirrors/haproxy)** `C` ⭐875 — UNOFFICIAL fork of haproxy development repository - ISSUE REPORTS ARE IGNORED!
+- **[alibaba/nginx-http-concat](https://github.com/alibaba/nginx-http-concat)** `C` ⭐866 — A Nginx module for concatenating files in a given context: CSS and JS files usually
 - **[AliyunContainerService/DevOps](https://github.com/AliyunContainerService/DevOps)** ⭐767 — 阿里云容器服务持续交付  
   `devops` `docker`
 - **[rryqszq4/ngx-php](https://github.com/rryqszq4/ngx-php)** `C` ⭐700 — ngx-php - Embedded php7 or php8 scripting language for nginx module.  Mainline development version of the ngx-php.  
   `module` `nginx` `nginx-module` `php` `php7`
+- **[happyfish100/fastdfs-nginx-module](https://github.com/happyfish100/fastdfs-nginx-module)** `C` ⭐433 — FastDFS nginx module
 - **[LomoX-Offical/nginx-openresty-windows](https://github.com/LomoX-Offical/nginx-openresty-windows)** `C` ⭐417 — nginx for windows with openresty  
   `nginx` `openresty` `win` `windows`
 - **[Amazingwujun/mqttx](https://github.com/Amazingwujun/mqttx)** `Java` ⭐344 — MQTTX Project 完整实现 mqttv3.1.1 协议，旨在提供易于使用且性能优异的 mqtt broker  
@@ -1538,37 +1522,51 @@
   `module` `nginx` `nginx-module` `ngx-php` `php`
 - **[RedpointArchive/phabricator](https://github.com/RedpointArchive/phabricator)** `Shell` ⭐307 — A Docker image that runs Phabricator, an open source software engineering tool  
   `docker-image` `phabricator`
-- **[TheQtCompanyRnD/agent-skills](https://github.com/TheQtCompanyRnD/agent-skills)** `QML` ⭐300 — Official Qt AI engineering skills for Claude Code, Codex, Copilot, Gemini,and other AI coding tools  
-  `ai-skills` `claude-code` `codex` `github-copilot` `qml`
+- **[upyun/lua-resty-checkups](https://github.com/upyun/lua-resty-checkups)** `Lua` ⭐261 — Manage Nginx upstreams in pure Lua.  
+  `lua-resty`
 - **[teddysun/lcmp](https://github.com/teddysun/lcmp)** `Shell` ⭐261 — Install LCMP (Linux + Caddy + MariaDB + PHP) for AlmaLinux/RockyLinux/CentOS/Debian/Ubuntu  
   `almalinux` `caddy` `caddy2` `centos` `debian`
+- **[alibaba/nginx-http-sysguard](https://github.com/alibaba/nginx-http-sysguard)** `C` ⭐254 — A Nginx module to protect servers when system load or memory use goes too high.
+- **[yaoweibin/nginx_ajp_module](https://github.com/yaoweibin/nginx_ajp_module)** `Perl` ⭐246 — support AJP protocol proxy with Nginx
+- **[pgaertig/nginx-big-upload](https://github.com/pgaertig/nginx-big-upload)** `Ruby` ⭐192 — Resumable and reliable file uploads of any size. Nginx extension written in Lua.
+- **[xiaokai-wang/nginx-stream-upsync-module](https://github.com/xiaokai-wang/nginx-stream-upsync-module)** `C` ⭐177 — For stream protocol. syncing upstreams from etcd or consul and so on, dynamically updating backend servers attribute, no
+- **[grahamedgecombe/nginx-ct](https://github.com/grahamedgecombe/nginx-ct)** `C` ⭐176 — Certificate Transparency module for nginx.  
+  `c` `certificate-transparency` `nginx`
+- **[hpxl/nginx-lua-fastdfs-GraphicsMagick](https://github.com/hpxl/nginx-lua-fastdfs-GraphicsMagick)** `Lua` ⭐176 — nginx+lua+fastdfs+GraphicsMagick 动态生成缩略图
 - **[CiscoCloud/haproxy-consul](https://github.com/CiscoCloud/haproxy-consul)** `Shell` ⭐167 — Dynamic haproxy configuration using consul
 - **[jirutka/ngx-oauth](https://github.com/jirutka/ngx-oauth)** `Lua` ⭐155 — OAuth 2.0 proxy for nginx written in Lua. | DEPRECATED in favour of https://github.com/jirutka/nginx-oidc-njs  
   `lua` `nginx` `oauth` `oauth-proxy` `oauth2`
+- **[zheng-ji/ngx_lua_reqstatus](https://github.com/zheng-ji/ngx_lua_reqstatus)** `Lua` ⭐136 — 实时统计 nginx 状态的 lua 拓展
 - **[Kayven/OneStack](https://github.com/Kayven/OneStack)** `Shell` ⭐130 — A tool to deploy complete and real OpenStack cloud computing service.（一键部署OpenStack）
+- **[alibaba/nginx-http-footer-filter](https://github.com/alibaba/nginx-http-footer-filter)** `C` ⭐128 — A nginx module that prints some text in the footer of a request
+- **[im-pingo/nginx-rtmp-module](https://github.com/im-pingo/nginx-rtmp-module)** `C` ⭐118 — hls+/http-ts/http-flv/rtmp/hls/dash/h265/h264/aac/mp3/notify/pull/push  
+  `dash` `flv-live` `flv-server` `flv-stream` `flvjs`
 - **[bungle/lua-resty-route](https://github.com/bungle/lua-resty-route)** `Lua` ⭐103 — URL Routing Library for OpenResty Supporting Pluggable Matching Engines  
   `lua` `lua-resty-route` `luajit` `nginx` `openresty`
+- **[xiaokai-wang/nginx_upstream_check_module](https://github.com/xiaokai-wang/nginx_upstream_check_module)** `Perl` ⭐75 — For http protocol. Health checks upstreams for nginx，support dynamic health check interface for adding servers, transpla
 - **[kodango/switchdns](https://github.com/kodango/switchdns)** `Shell` ⭐71 — Alfred 2 workflow: 快速切换 DNS 服务器设置  
   `alfred2-workflow`
+- **[gityf/ngx_lua_thrift](https://github.com/gityf/ngx_lua_thrift)** `Lua` ⭐43 — thrift lua for nginx.
 - **[emqxarchive/edge-stack](https://github.com/emqxarchive/edge-stack)** `Shell` ⭐32
 - **[648540858/ZLM-build](https://github.com/648540858/ZLM-build)** `Shell` ⭐27 — 支持构建各个操作系统下的zlm包
+- **[azurewang/Nginx_Lua-FastDFS](https://github.com/azurewang/Nginx_Lua-FastDFS)** `Lua` ⭐22 — nginx_lua fastdfs module
 - **[rochaporto/docker-ceph](https://github.com/rochaporto/docker-ceph)** `Shell` ⭐18 — Docker configuration files for ceph setups
 - **[EricssonResearch/openwebrtc-build-scripts](https://github.com/EricssonResearch/openwebrtc-build-scripts)** `Shell` ⭐16 — Build scripts for OpenWebRTC
+- **[roast/nginx-token](https://github.com/roast/nginx-token)** `C` ⭐12 — A token module for nginx based on memcache.
 - **[Fleshgrinder/mysql-mariadb-configuration](https://github.com/Fleshgrinder/mysql-mariadb-configuration)** `Shell` ⭐12 — My personal MariaDB configuration.
 - **[sknown/libghttp](https://github.com/sknown/libghttp)** `Shell` ⭐12 — libghttp-1.0.9
 - **[AliyunContainerService/ubuntu-image](https://github.com/AliyunContainerService/ubuntu-image)** ⭐8 — Official Ubuntu Docker image with Aliyun mirror
 - **[showniu/zentao](https://github.com/showniu/zentao)** `Dockerfile` ⭐7
 - **[AliyunContainerService/centos-image](https://github.com/AliyunContainerService/centos-image)** ⭐6 — Official CentOS Docker image with Aliyun mirror
 - **[AliyunContainerService/debian-image](https://github.com/AliyunContainerService/debian-image)** ⭐3 — Official Debian Docker image with Aliyun mirror
-- **[dbarkar/boost-android](https://github.com/dbarkar/boost-android)** `Shell` ⭐2 — Port of Boost C++ libraries for android platform
 
-## 🔧 CLI / Terminal (13)
+## 🔧 CLI / Terminal (12)
 
-- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** `Shell` ⭐188666 — 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300  
+- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** `Shell` ⭐188667 — 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300  
   `cli` `cli-app` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme`
 - **[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)** `Batchfile` ⭐183423 — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with a  
   `activator` `hwid` `kms` `kms38` `massgrave`
-- **[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)** `Shell` ⭐47241 — A pure Unix shell script ACME client for SSL / TLS certificate automation  
+- **[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)** `Shell` ⭐47242 — A pure Unix shell script ACME client for SSL / TLS certificate automation  
   `acme` `acme-challenge` `acme-protocol` `acme-v2` `ash`
 - **[Unitech/pm2](https://github.com/Unitech/pm2)** `JavaScript` ⭐43236 — Node.js/Bun Production Process Manager with a built-in Load Balancer.  
   `command-line` `command-line-tool` `deploy` `load-balancer` `monitoring`
@@ -1576,8 +1574,6 @@
   `cli` `deepseek` `llm` `rust` `terminal`
 - **[koalaman/shellcheck](https://github.com/koalaman/shellcheck)** `Haskell` ⭐39726 — ShellCheck, a static analysis tool for shell scripts  
   `bash` `developer-tools` `haskell` `linter` `shell`
-- **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `Go` ⭐27119 — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.  
-  `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 - **[Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)** `Shell` ⭐20598 — OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora  
   `almalinux` `bash` `centos` `debian` `fedora`
 - **[nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)** `C#` ⭐16005 — [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.  
@@ -1599,7 +1595,7 @@
   `css` `font` `fontawesome` `icons` `svg-icons`
 - **[apache/echarts](https://github.com/apache/echarts)** `TypeScript` ⭐66823 — Apache ECharts is a powerful, interactive charting and data visualization library for browser  
   `apache` `canvas` `charting-library` `charts` `data-visualization`
-- **[ShareX/ShareX](https://github.com/ShareX/ShareX)** `C#` ⭐38682 — ShareX is a free and open-source application that enables users to capture or record any area of their screen with a sin  
+- **[ShareX/ShareX](https://github.com/ShareX/ShareX)** `C#` ⭐38685 — ShareX is a free and open-source application that enables users to capture or record any area of their screen with a sin  
   `avalonia` `capture` `color-picker` `csharp` `dropbox`
 - **[nextcloud/server](https://github.com/nextcloud/server)** `PHP` ⭐36163 — ☁️ Nextcloud server, a safe home for all your data  
   `cloud` `collaboration` `decentralized` `design` `distributed`
@@ -1610,46 +1606,43 @@
 - **[chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)** `CSS` ⭐13976 — Tomorrow Theme  
   `color-scheme` `theme`
 
-## 📚 Docs / Awesome / Learning (32)
+## 📚 Docs / Awesome / Learning (30)
 
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` ⭐526773 — Master programming by recreating your favorite technologies from scratch.  
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` ⭐526795 — Master programming by recreating your favorite technologies from scratch.  
   `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises`
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** ⭐485928 — 😎 Awesome lists about all kinds of interesting topics  
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** ⭐485932 — 😎 Awesome lists about all kinds of interesting topics  
   `awesome` `awesome-list` `lists` `resources` `unicorns`
-- **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** `TypeScript` ⭐361287 — Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
+- **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** `TypeScript` ⭐361288 — Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
   `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap`
-- **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** ⭐306040 — A list of Free Software network services and web applications which can be hosted on your own servers  
+- **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** ⭐306046 — A list of Free Software network services and web applications which can be hosted on your own servers  
   `awesome` `awesome-list` `cloud` `free-software` `hosting`
-- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `Swift` ⭐108044 —  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca  
+- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `Swift` ⭐108046 —  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca  
   `app` `apple` `application` `apps` `awesome`
-- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐102553 — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen  
+- **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** ⭐102555 — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen  
   `awesome-list` `design-md` `design-system` `design-tokens` `figma`
 - **[vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)** ⭐73558 — 🎉 A curated list of awesome things related to Vue.js
 - **[ngosang/trackerslist](https://github.com/ngosang/trackerslist)** ⭐54510 — Updated list of public BitTorrent trackers  
   `bittorrent` `bittorrent-tracker` `bittorrent-trackers` `http` `list`
-- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` ⭐45438 — Universal markup converter  
+- **[jgm/pandoc](https://github.com/jgm/pandoc)** `Haskell` ⭐45439 — Universal markup converter  
   `commonmark` `converter` `document` `haskell` `markdown`
 - **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** `Python` ⭐39928 — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that b  
   `claude-code` `guide` `tutorial`
 - **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** `TypeScript` ⭐28957 — The open source frontend for GitBook doc sites  
   `documentation` `git` `gitbook` `markdown`
-- **[Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** ⭐17020 — 收集整理 GitHub 上高质量、有趣的开源项目。
+- **[Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** ⭐17021 — 收集整理 GitHub 上高质量、有趣的开源项目。
 - **[gollum/gollum](https://github.com/gollum/gollum)** `Ruby` ⭐14300 — A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.  
   `documentation` `documentation-tool` `gollum` `jruby-support` `markdown`
 - **[star7th/showdoc](https://github.com/star7th/showdoc)** `PHP` ⭐12841 — ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具  
   `api` `document` `documentation-tool` `showdoc`
 - **[qyuhen/book](https://github.com/qyuhen/book)** ⭐12512 — 学习笔记
-- **[hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)** ⭐11787 — AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo  
-  `ai-painting` `dd5` `disco-diffusion` `stable-diffusion` `stable-diffusion-diffusers`
 - **[zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)** `Makefile` ⭐10977 — Google 开源项目风格指南 (中文版)
 - **[svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)** ⭐10689 — 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 - **[ElemeFE/node-interview](https://github.com/ElemeFE/node-interview)** `HTML` ⭐10487 — How to pass the Node.js interview of ElemeFE.  
   `interview` `nodejs`
 - **[home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)** `HTML` ⭐9575 — :blue_book: Home Assistant User documentation  
   `documentation` `hacktoberfest` `hass` `hassio` `home-assistant`
-- **[opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp)** ⭐9433 — 微信小程序开源项目库汇总
+- **[opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp)** ⭐9434 — 微信小程序开源项目库汇总
 - **[jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn)** ⭐6661 — C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-- **[jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)** ⭐4381 — iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 - **[jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn)** ⭐3275 — 设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
 - **[preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides)** `Vim Script` ⭐2656 — A Vim plugin for visually displaying indent levels in code
 - **[bungle/awesome-resty](https://github.com/bungle/awesome-resty)** ⭐2483 — A List of Quality OpenResty Libraries, and Resources.
@@ -1662,7 +1655,7 @@
 - **[waylau/Jersey-2.x-User-Guide](https://github.com/waylau/Jersey-2.x-User-Guide)** ⭐239 — Jersey 2.x User Guide《Jersey 2.x 用户指南》 ，中文翻译  
   `jersey` `rest` `restful` `restful-api`
 
-## 📦 Libraries / SDKs (34)
+## 📦 Libraries / SDKs (40)
 
 - **[laravel/laravel](https://github.com/laravel/laravel)** `Blade` ⭐84608 — Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next   
   `framework` `laravel` `php`
@@ -1675,6 +1668,8 @@
   `telegram` `telegram-api` `telegram-bot` `telegram-bot-api` `telegram-bots`
 - **[eggjs/egg](https://github.com/eggjs/egg)** `TypeScript` ⭐18993 — 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode  
   `egg` `eggjs` `enterprise` `framework` `koa`
+- **[plotly/plotly.js](https://github.com/plotly/plotly.js)** `JavaScript` ⭐18263 — Open-source JavaScript charting library behind Plotly and Dash  
+  `charting-library` `charts` `d3` `data-visualization` `plotly`
 - **[yiisoft/yii2](https://github.com/yiisoft/yii2)** `PHP` ⭐14300 — Yii 2: The Fast, Secure and Professional PHP Framework  
   `framework` `hacktoberfest` `php` `php-framework` `yii`
 - **[JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)** `C#` ⭐13532 — Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one   
@@ -1684,6 +1679,7 @@
 - **[thephpleague/omnipay](https://github.com/thephpleague/omnipay)** `PHP` ⭐6056 — A framework agnostic, multi-gateway payment processing library for PHP 5.6+
 - **[webonyx/graphql-php](https://github.com/webonyx/graphql-php)** `PHP` ⭐4716 — PHP implementation of the GraphQL specification based on the reference implementation in JavaScript  
   `api` `api-management` `graphql` `graphql-php` `php`
+- **[jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)** ⭐4381 — iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 - **[google/recaptcha](https://github.com/google/recaptcha)** `PHP` ⭐3562 — PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.  
   `abuse` `recaptcha` `spam`
 - **[parse-community/Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX)** `Objective-C` ⭐2810 — The Apple SDK for Parse Platform (iOS, macOS, watchOS, tvOS)  
@@ -1693,10 +1689,14 @@
   `filesystem` `gaufrette` `hacktoberfest` `php`
 - **[OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn)** `C#` ⭐2050 — OmniSharp server (HTTP, STDIO) based on Roslyn workspaces  
   `csharp` `dotnet` `dotnet-sdk` `omnisharp` `roslyn`
+- **[parse-community/Parse-SDK-Android](https://github.com/parse-community/Parse-SDK-Android)** `Java` ⭐1881 — The Android SDK for Parse Platform  
+  `android` `hacktoberfest` `parse` `parse-android` `parse-platform`
 - **[mjaschen/phpgeo](https://github.com/mjaschen/phpgeo)** `PHP` ⭐1611 — Simple Yet Powerful Geo Library for PHP  
   `area-calculator` `coordinates` `distance-calculation` `douglas-peucker` `ellipsoid`
 - **[khanamiryan/php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder)** `PHP` ⭐1411 — This is a PHP library to detect and decode QR-codes. This is first and only QR code reader that works without extensions  
   `decode-qr-codes` `decoder` `php-library` `reader`
+- **[metartc/metaRTC](https://github.com/metartc/metaRTC)** `C` ⭐1135 — webrtc sdk for embedded / IoT / robotics devices  
+  `embeded` `webrtc` `webrtc-sdk` `whep` `whip`
 - **[alex-spataru/QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater)** `C++` ⭐1102 — Updater system for Qt applications  
   `json` `library` `network` `qt` `updater`
 - **[Sybio/ImageWorkshop](https://github.com/Sybio/ImageWorkshop)** `PHP` ⭐854 — ImageWorkshop is a PHP5.3+ library that helps you to manage images based on GD library
@@ -1708,19 +1708,23 @@
 - **[noodlehaus/dispatch](https://github.com/noodlehaus/dispatch)** `PHP` ⭐537 — a tiny library for quick and easy PHP apps  
   `framework` `micro-framework` `microframework` `middleware` `php`
 - **[mirven/underscore.lua](https://github.com/mirven/underscore.lua)** `Lua` ⭐403 — A utility library for Lua
+- **[metartc/yangwebrtc](https://github.com/metartc/yangwebrtc)** `C++` ⭐402 — A cross-platform WebRTC/RTMP/SRT SDK base on metaRTC  
+  `webrtc` `webrtc-sdk`
 - **[bungle/lua-resty-session](https://github.com/bungle/lua-resty-session)** `Lua` ⭐341 — Session library for OpenResty – flexible and secure
 - **[mikeemoo/ColorJizz-PHP](https://github.com/mikeemoo/ColorJizz-PHP)** `PHP` ⭐285 — ColorJizz is a PHP library for manipulating and converting colors.
 - **[thibaultcha/lua-resty-jit-uuid](https://github.com/thibaultcha/lua-resty-jit-uuid)** `Perl` ⭐208 — Fast and dependency-free UUID library for LuaJIT/ngx_lua  
   `lua-resty` `luajit` `ngx-lua` `openresty` `uuid`
+- **[Sloaix/qiniu4js](https://github.com/Sloaix/qiniu4js)** `TypeScript` ⭐162 — 🔥七牛上传SDK(浏览器环境)  
+  `qiniu` `qiniu-sdk` `qiniu-storage-bucket` `qiniu-uploader` `qiniuyun`
 - **[bungle/lua-resty-validation](https://github.com/bungle/lua-resty-validation)** `Lua` ⭐155 — Validation Library (Input Validation and Filtering) for Lua and OpenResty.
 - **[juce/lua-resty-shell](https://github.com/juce/lua-resty-shell)** `Lua` ⭐148 — tiny subprocess/shell library to use with OpenResty application server
 - **[bungle/lua-resty-uuid](https://github.com/bungle/lua-resty-uuid)** `Lua` ⭐60 — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library.
 - **[362228416/lua-resty-oss](https://github.com/362228416/lua-resty-oss)** `Lua` ⭐46 — 阿里云oss lua sdk，基于openresty
 - **[bungle/lua-resty-gettext](https://github.com/bungle/lua-resty-gettext)** `Lua` ⭐9 — LuaJIT FFI-based gettext library for OpenResty.
 
-## 🔐 Security (13)
+## 🔐 Security (14)
 
-- **[openssl/openssl](https://github.com/openssl/openssl)** `C` ⭐30463 — General purpose TLS and crypto library  
+- **[openssl/openssl](https://github.com/openssl/openssl)** `C` ⭐30464 — General purpose TLS and crypto library  
   `cryptography` `decryption` `encryption` `openssl` `ssl`
 - **[rizinorg/cutter](https://github.com/rizinorg/cutter)** `C++` ⭐19366 — Free and Open Source Reverse Engineering Platform powered by rizin  
   `cutter` `debugger` `gui` `reverse-engineering` `security`
@@ -1728,7 +1732,7 @@
   `cpp` `crypto` `cryptography` `go` `java`
 - **[go-acme/lego](https://github.com/go-acme/lego)** `Go` ⭐9743 — Let's Encrypt/ACME client and library written in Go  
   `acme` `acme-client` `certificate` `dns` `letsencrypt`
-- **[peazip/PeaZip](https://github.com/peazip/PeaZip)** `Pascal` ⭐7653 — Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, com  
+- **[peazip/PeaZip](https://github.com/peazip/PeaZip)** `Pascal` ⭐7654 — Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, com  
   `archiver` `brotli` `compression` `encryption` `extractor`
 - **[guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)** `C` ⭐6104 — 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱  
   `crypto` `encryption` `pairing` `post-quantum` `sm2`
@@ -1739,13 +1743,14 @@
   `authentication` `authorization` `cas` `dropwizard` `j2e`
 - **[itgoyo/awesome-crypto](https://github.com/itgoyo/awesome-crypto)** ⭐932 — 币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。涉及币圈导航、  
   `binance` `bitcoin` `blockchain` `crypto` `crypto-bot`
+- **[jpmens/mosquitto-auth-plug](https://github.com/jpmens/mosquitto-auth-plug)** `C` ⭐838 — Authentication plugin for Mosquitto with multiple back-ends (MySQL, Redis, CDB, SQLite3)
 - **[Harmoc/CTFTools](https://github.com/Harmoc/CTFTools)** ⭐620 — Personal CTF Toolkit  
   `ctf-tools` `hacking` `hacking-tool` `web-security`
 - **[adoy/PHP-OAuth2](https://github.com/adoy/PHP-OAuth2)** `PHP` ⭐394 — Light PHP wrapper for the OAuth 2.0 protocol (based on OAuth 2.0 Authorization Protocol draft-ietf-oauth-v2-15)
 - **[SSLMate/caa_helper](https://github.com/SSLMate/caa_helper)** `JavaScript` ⭐157 — Generate a CAA policy  
   `caa` `dns` `pki` `security`
 
-## 🗄️ Database (33)
+## 🗄️ Database (38)
 
 - **[redis/redis](https://github.com/redis/redis)** `C` ⭐75544 — For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-r  
   `cache` `caching` `database` `distributed-systems` `in-memory`
@@ -1765,6 +1770,7 @@
   `baas` `backend` `file-storage` `graphql` `graphql-api`
 - **[Seldaek/monolog](https://github.com/Seldaek/monolog)** `PHP` ⭐21396 — Sends your logs to files, sockets, inboxes, databases and various web services  
   `hacktoberfest` `logger` `logging` `php` `psr-3`
+- **[greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)** `Java` ⭐12593 — greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 - **[typecho/typecho](https://github.com/typecho/typecho)** `PHP` ⭐12402 — A PHP Blogging Platform. Simple and Powerful.  
   `blog` `markdown` `php` `typecho`
 - **[phpredis/phpredis](https://github.com/phpredis/phpredis)** `C` ⭐10226 — A PHP extension for Redis  
@@ -1780,8 +1786,10 @@
   `dash` `ffmpeg` `hls` `ism` `live`
 - **[predis/predis](https://github.com/predis/predis)** `PHP` ⭐7767 — A flexible and feature-complete Redis/Valkey client for PHP.  
   `php` `predis` `redis` `redis-cluster` `redis-sentinel`
+- **[sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher)** `C` ⭐7208 — SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - **[go-xorm/xorm](https://github.com/go-xorm/xorm)** `Go` ⭐6624 — Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm  
   `golang` `mssql` `mysql` `orm` `postgres`
+- **[jdorn/sql-formatter](https://github.com/jdorn/sql-formatter)** `HTML` ⭐3851 — A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - **[acl-dev/acl](https://github.com/acl-dev/acl)** `C` ⭐3089 — C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite cl  
   `coroutine` `cplusplus` `database` `fiber` `http`
 - **[renrenio/linktoken](https://github.com/renrenio/linktoken)** ⭐2998 — LinkToken is an open-source unified token management platform that provides token distribution, access control, and usag
@@ -1797,6 +1805,10 @@
   `codis` `corvus` `redis` `redis-cluster` `redis-sentinel`
 - **[jly8866/archer](https://github.com/jly8866/archer)** `JavaScript` ⭐1567 — 基于inception的自动化SQL操作平台，支持SQL执行、LDAP认证、发邮件、OSC、SQL查询、SQL优化建议、权限管理等功能，支持docker镜像  
   `devops` `django` `inception` `mysql` `python`
+- **[platformio/platformio-examples](https://github.com/platformio/platformio-examples)** `C++` ⭐689 — PlatformIO Project Examples  
+  `examples` `platformio`
+- **[happyfish100/FastCFS](https://github.com/happyfish100/FastCFS)** `C` ⭐602 — A high performance distributed file system which can be used as the back-end storage of databases, K8s and VM etc.  
+  `cloud-native` `fuse-interface`
 - **[twitter-archive/mysos](https://github.com/twitter-archive/mysos)** ⭐584 — Cotton (formerly known as Mysos)
 - **[lunarmodules/cgilua](https://github.com/lunarmodules/cgilua)** `Lua` ⭐104 — CGILua is a tool for creating dynamic HTML pages and manipulating input data from Web forms.
 - **[GeKorm/dart-windows](https://github.com/GeKorm/dart-windows)** `Inno Setup` ⭐103 — Dart installer for Windows  
@@ -1805,9 +1817,9 @@
 - **[khoaofgod/howmuchblur-1](https://github.com/khoaofgod/howmuchblur-1)** `PHP` ⭐27 — The PHP high-performance object caching system ever. phpFastCache is a high-performance, distributed object caching syst
 - **[bungle/lua-resty-tsort](https://github.com/bungle/lua-resty-tsort)** `Lua` ⭐12 — Performs a topological sort on input data.
 
-## 🧩 Other (126)
+## 🧩 Other (115)
 
-- **[2dust/v2rayN](https://github.com/2dust/v2rayN)** `C#` ⭐111571 — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others  
+- **[2dust/v2rayN](https://github.com/2dust/v2rayN)** `C#` ⭐111575 — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others  
   `proxy` `shadowsocks` `socks5` `trojan` `v2fly`
 - **[amix/vimrc](https://github.com/amix/vimrc)** `Vim Script` ⭐31782 — The ultimate Vim configuration (vimrc)
 - **[NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)** `C#` ⭐27300 — 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.  
@@ -1829,12 +1841,11 @@
   `cleanup` `hosts-file` `optimize` `privacy` `registry-hacks`
 - **[briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)** `PHP` ⭐16614 — A simple PHP API extension for DateTime.
 - **[spf13/spf13-vim](https://github.com/spf13/spf13-vim)** `Vim Script` ⭐15494 — The ultimate vim distribution
-- **[shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp)** `C#` ⭐15053
+- **[shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp)** `C#` ⭐15054
 - **[phacility/phabricator](https://github.com/phacility/phabricator)** `PHP` ⭐12304 — Effective June 1, 2021: Phabricator is no longer actively maintained.  
   `git` `hg` `phabricator` `php` `svn`
 - **[MathewSachin/Captura](https://github.com/MathewSachin/Captura)** `C#` ⭐10744 — Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes  
   `capture` `chocolatey` `dotnet` `gif` `keystrokes`
-- **[Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM)** `PHP` ⭐10381 — Multi-purpose proxy service management system
 - **[vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin)** ⭐9338 — We are refactoring it, using the latest Vue and Bulma. WIP
 - **[FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte)** `PHP` ⭐9198 — Goutte, a simple PHP Web Scraper
 - **[purcell/emacs.d](https://github.com/purcell/emacs.d)** `Emacs Lisp` ⭐7068 — An Emacs configuration bundle with batteries included
@@ -1857,7 +1868,6 @@
 - **[CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway)** `Perl` ⭐2352
 - **[smarty-php/smarty](https://github.com/smarty-php/smarty)** `PHP` ⭐2349 — Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.  
   `php` `smarty`
-- **[yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module)** `Perl` ⭐2145 — Health checks upstreams for nginx
 - **[mpeterv/luacheck](https://github.com/mpeterv/luacheck)** `Lua` ⭐2042 —  A tool for linting and static analysis of Lua code.   
   `linter` `lua`
 - **[flytkgl/PDFQFZ](https://github.com/flytkgl/PDFQFZ)** `C#` ⭐1987 — PDF加盖骑缝章的小工具
@@ -1865,7 +1875,6 @@
 - **[ruslo/hunter](https://github.com/ruslo/hunter)** `CMake` ⭐1898
 - **[llZektorll/OB_Template](https://github.com/llZektorll/OB_Template)** ⭐1726 — OB_Templates is a Obsidian reference for note templates focused on new users of the application using only core plugins.  
   `obsidian` `obsidian-community` `obsidian-folder` `obsidian-md` `obsidian-notes`
-- **[openresty/openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit)** `Perl` ⭐1669 — Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap
 - **[TestLinkOpenSourceTRMS/testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code)** `PHP` ⭐1604 — TestLink Open Source Test & Requirement Management System
 - **[chatop2020/AKStream](https://github.com/chatop2020/AKStream)** `C#` ⭐1514 — AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、  
   `arm64` `gb28181` `hls` `live` `m3u8`
@@ -1902,28 +1911,22 @@
 - **[cristeab/ios-cmake](https://github.com/cristeab/ios-cmake)** `CMake` ⭐317 — A toolchain file and examples using cmake for iOS development (this is a fork of a similar project found on code.google.
 - **[xianglei/easyhadoop](https://github.com/xianglei/easyhadoop)** `PHP` ⭐312 — Apache hadoop management system
 - **[spacewander/lua-resty-rsa](https://github.com/spacewander/lua-resty-rsa)** `Lua` ⭐268 — RSA encrypt/decrypt & sign/verify for OpenResty/LuaJIT
-- **[upyun/lua-resty-checkups](https://github.com/upyun/lua-resty-checkups)** `Lua` ⭐261 — Manage Nginx upstreams in pure Lua.  
-  `lua-resty`
-- **[yaoweibin/nginx_ajp_module](https://github.com/yaoweibin/nginx_ajp_module)** `Perl` ⭐246 — support AJP protocol proxy with Nginx
 - **[nicokaiser/php-websocket](https://github.com/nicokaiser/php-websocket)** `PHP` ⭐239 — A simple PHP WebSocket implementation for PHP 5.3
 - **[zhangheng18/rime-dict](https://github.com/zhangheng18/rime-dict)** ⭐233 — RIME输入法 增强词库
 - **[ElemeFE/element-dashboard](https://github.com/ElemeFE/element-dashboard)** `Vue` ⭐220 — element dashboard  
   `element` `element-dashboard` `example`
 - **[Laobei2012/lua-resty-mongol](https://github.com/Laobei2012/lua-resty-mongol)** `Perl` ⭐198 — A ngx_lua driver for mongodb  -- Deprecated for not updating with the mongodb version
 - **[APItools/router.lua](https://github.com/APItools/router.lua)** `Lua` ⭐195 — A barebones router for Lua. It matches urls and executes lua functions.
-- **[pgaertig/nginx-big-upload](https://github.com/pgaertig/nginx-big-upload)** `Ruby` ⭐192 — Resumable and reliable file uploads of any size. Nginx extension written in Lua.
 - **[ilsanbao/17moncn](https://github.com/ilsanbao/17moncn)** `Lua` ⭐192 — IP地址归属地查询多语言版
 - **[bjornbytes/graphql-lua](https://github.com/bjornbytes/graphql-lua)** `Lua` ⭐191 — GraphQL implementation in Lua
 - **[orangle/study-resources](https://github.com/orangle/study-resources)** ⭐184 — 平时学习的一些资源积累
 - **[cqboyone/magnetW_rule](https://github.com/cqboyone/magnetW_rule)** ⭐178 — 本来想自己写一个聚合bt搜索磁力的工具，发现已经有magnetW，而且还挺好用的。但是官方的没有维护规则了，所以自己打算更新下规则。
 - **[chunhuajiang/zephyr-inside](https://github.com/chunhuajiang/zephyr-inside)** ⭐176 — 揭秘 Zephyr OS    
   `iot` `linux` `rtos` `zephyr`
-- **[hpxl/nginx-lua-fastdfs-GraphicsMagick](https://github.com/hpxl/nginx-lua-fastdfs-GraphicsMagick)** `Lua` ⭐176 — nginx+lua+fastdfs+GraphicsMagick 动态生成缩略图
 - **[jkeys089/lua-resty-hmac](https://github.com/jkeys089/lua-resty-hmac)** `Perl` ⭐172 — HMAC functions for ngx_lua and LuaJIT
 - **[Octopussy-Project/Octopussy](https://github.com/Octopussy-Project/Octopussy)** `Perl` ⭐164 — Octopussy - Open Source Log Management Solution  
   `log` `log-analysis` `log-collector` `log-management` `perl`
 - **[Cluain/Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)** `Lua` ⭐154 — Read simple XML easily
-- **[zheng-ji/ngx_lua_reqstatus](https://github.com/zheng-ji/ngx_lua_reqstatus)** `Lua` ⭐136 — 实时统计 nginx 状态的 lua 拓展
 - **[iresty/lua-resty-test](https://github.com/iresty/lua-resty-test)** `Lua` ⭐136 — Lua test frame for the ngx_lua based on Openresty
 - **[squatto/alfred-imessage-2fa](https://github.com/squatto/alfred-imessage-2fa)** `PHP` ⭐117 — iMessage 2FA Workflow for Alfred  
   `2fa` `alfred` `alfred-workflow` `alfred-workflows` `imessage`
@@ -1937,7 +1940,6 @@
 - **[xianglei/phpHiveAdmin](https://github.com/xianglei/phpHiveAdmin)** `PHP` ⭐84 — An Apache Hive management system
 - **[VVFGAA/BreventBat](https://github.com/VVFGAA/BreventBat)** `Batchfile` ⭐80
 - **[LomoX-Offical/openresty-source-code-analysis](https://github.com/LomoX-Offical/openresty-source-code-analysis)** ⭐80 — 源码解析
-- **[xiaokai-wang/nginx_upstream_check_module](https://github.com/xiaokai-wang/nginx_upstream_check_module)** `Perl` ⭐75 — For http protocol. Health checks upstreams for nginx，support dynamic health check interface for adding servers, transpla
 - **[JoelQ/alfred-http](https://github.com/JoelQ/alfred-http)** `Ruby` ⭐61 — Alfred workflow for HTTP status codes
 - **[FrangSierra/Xcode-IntelliJ-Keybinds](https://github.com/FrangSierra/Xcode-IntelliJ-Keybinds)** ⭐57 — IntelliJ Keybinds for Xcode
 - **[KAY53N/kshop](https://github.com/KAY53N/kshop)** `PHP` ⭐56 — 使用PHP基于ThinkPHP开发的商城系统 - Kshop  
@@ -1945,12 +1947,10 @@
 - **[StanleyChanH/openclaw-offline-package](https://github.com/StanleyChanH/openclaw-offline-package)** `Batchfile` ⭐49 — OpenClaw Windows Offline Installer - 一键离线安装包，不用依赖海外网络，解压即用  
   `openclaw` `windows`
 - **[doujiang24/lua-resty-ini](https://github.com/doujiang24/lua-resty-ini)** `Lua` ⭐49 — lua-resty-ini - ini parser for OpenResty
-- **[gityf/ngx_lua_thrift](https://github.com/gityf/ngx_lua_thrift)** `Lua` ⭐43 — thrift lua for nginx.
 - **[docopt/docopt.lua](https://github.com/docopt/docopt.lua)** `Lua` ⭐38
 - **[FradSer/alfred-workflows-collection](https://github.com/FradSer/alfred-workflows-collection)** ⭐34 — A collection of Alfred 2 workflows by FradSer.  
   `alfred3-workflow`
 - **[xiajunsongfan/lua-resty-thrift](https://github.com/xiajunsongfan/lua-resty-thrift)** `Lua` ⭐24 — lua-resty-thrift -- Lua thrift client driver for the ngx_lua based on the cosocket API
-- **[azurewang/Nginx_Lua-FastDFS](https://github.com/azurewang/Nginx_Lua-FastDFS)** `Lua` ⭐22 — nginx_lua fastdfs module
 - **[linsir/lua-resty-ceph](https://github.com/linsir/lua-resty-ceph)** `Lua` ⭐21 — A simple Lua wrapper for ceph with s3 and swift based on OpenResty.  
   `ceph` `ngx-lua` `openresty`
 - **[Appidid/Apple-ID](https://github.com/Appidid/Apple-ID)** ⭐19 — 共享苹果id、美国区id、日本区id 、韩国区id、香港区id 、国区id 、台湾区id 、俄区id 、加拿大区id 、新加坡区id 、海外苹果id服 Apple ID  ios  App Store账号及密码大全国外ID注册
