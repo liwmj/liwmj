@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars — Auto Categorized
 
-> Generated: 2026-07-17T22:23:39.368525
+> Generated: 2026-07-17T15:25:24.835296
 > Total repos: 1249
 
 ---
@@ -25,11 +25,11 @@
   `c-plus-plus` `computer-vision` `deep-learning` `image-processing` `opencv`
 - **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `Python` ⭐86509 — A high-throughput and memory-efficient inference and serving engine for LLMs  
   `amd` `blackwell` `cuda` `deepseek` `deepseek-v3`
-- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Python` ⭐69861 — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  
+- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Python` ⭐69862 — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  
   `ai` `ai-scraping` `automation` `crawler` `crawling`
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` ⭐55686 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers  
   `agents` `ai` `ai-agents` `aiagentframework` `llms`
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` ⭐53862 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails  
+- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** `Python` ⭐53863 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails  
   `ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway`
 - **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** `TypeScript` ⭐48695 — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   `agent-skills` `ai-agent` `awesome-skills` `claude-code` `codex`
@@ -131,14 +131,14 @@
   `declarative` `frontend` `javascript` `library` `react`
 - **[microsoft/vscode](https://github.com/microsoft/vscode)** `TypeScript` ⭐187612 — Visual Studio Code  
   `editor` `electron` `microsoft` `typescript` `visual-studio-code`
-- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** `TypeScript` ⭐186829 — The open source coding agent.
+- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** `TypeScript` ⭐186833 — The open source coding agent.
 - **[vercel/next.js](https://github.com/vercel/next.js)** `JavaScript` ⭐140996 — The React Framework  
   `blog` `browser` `compiler` `components` `hybrid`
 - **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` ⭐127729 — Virtual whiteboard for sketching hand-drawn like diagrams  
   `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest`
 - **[electron/electron](https://github.com/electron/electron)** `C++` ⭐122065 — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS  
   `c-plus-plus` `chrome` `css` `electron` `html`
-- **[ant-design/ant-design](https://github.com/ant-design/ant-design)** `TypeScript` ⭐98757 — An enterprise-class UI design language and React UI library  
+- **[ant-design/ant-design](https://github.com/ant-design/ant-design)** `TypeScript` ⭐98756 — An enterprise-class UI design language and React UI library  
   `ant-design` `antd` `design-systems` `react` `typescript`
 - **[mui/material-ui](https://github.com/mui/material-ui)** `JavaScript` ⭐98609 — Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.  
   `design-system` `material-design` `material-ui` `react` `react-components`
@@ -146,11 +146,11 @@
   `automation` `chrome` `chromium` `developer-tools` `firefox`
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** `TypeScript` ⭐93020 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single A  
   `automation` `chrome` `chromium` `e2e-testing` `electron`
-- **[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)** `Vue` ⭐90244 — :tada: A magical vue admin                                                                https://panjiachen.github.io/v  
+- **[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)** `Vue` ⭐90243 — :tada: A magical vue admin                                                                https://panjiachen.github.io/v  
   `admin` `admin-dashboard` `admin-template` `axios` `dashboard`
 - **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** `TypeScript` ⭐89281 — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown  
   `diagrams` `diagrams-as-code` `documentation` `flowchart` `javascript`
-- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `TypeScript` ⭐74020 — The open-source app everyone uses to manage agents at work
+- **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** `TypeScript` ⭐74021 — The open-source app everyone uses to manage agents at work
 - **[webpack/webpack](https://github.com/webpack/webpack)** `JavaScript` ⭐65841 — A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading pa  
   `amd` `build-tool` `commonjs` `compiler` `es2015`
 - **[socketio/socket.io](https://github.com/socketio/socket.io)** `TypeScript` ⭐63156 — Bidirectional and low-latency communication for every platform  
@@ -166,7 +166,7 @@
 - **[mozilla/pdf.js](https://github.com/mozilla/pdf.js)** `JavaScript` ⭐53589 — PDF Reader in JavaScript
 - **[agalwood/Motrix](https://github.com/agalwood/Motrix)** `JavaScript` ⭐52295 — A full-featured download manager.  
   `aria2` `bittorrent` `bt` `download` `download-manager`
-- **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** `TypeScript` ⭐52182 — 一个基于 Electron 的音乐软件  
+- **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** `TypeScript` ⭐52183 — 一个基于 Electron 的音乐软件  
   `electron` `javascript` `music-player` `vue`
 - **[RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** `TypeScript` ⭐45809 — The Secure CommsOS™ for mission-critical operations  
   `chat` `collaboration` `foss` `free` `hacktoberfest`
@@ -186,7 +186,7 @@
   `dash` `hls` `html` `html5` `html5-audio`
 - **[Dogfalo/materialize](https://github.com/Dogfalo/materialize)** `JavaScript` ⭐38843 — Materialize, a CSS Framework based on Material Design  
   `css` `css-framework` `design` `framework` `javascript`
-- **[FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)** `CSS` ⭐37733 — FCC China open source codebase and curriculum. Learn to code and help nonprofits.  
+- **[FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)** `CSS` ⭐37734 — FCC China open source codebase and curriculum. Learn to code and help nonprofits.  
   `career` `certification` `cn-freecodecamp` `community` `curriculum`
 - **[umami-software/umami](https://github.com/umami-software/umami)** `TypeScript` ⭐37713 — Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Ampl  
   `analytics` `audience-segmentation` `charts` `cohort-analysis` `google-analytics`
@@ -230,12 +230,12 @@
   `afdko` `fonts` `opentype-fonts` `otf` `ttf-fonts`
 - **[graphql/graphql-js](https://github.com/graphql/graphql-js)** `TypeScript` ⭐20349 — A reference implementation of GraphQL for JavaScript  
   `graphql` `graphql-js`
-- **[Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue)** `JavaScript` ⭐20268 — 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。  
+- **[Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue)** `JavaScript` ⭐20267 — 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。  
   `mini` `mpvue` `vue` `weapp` `wxmp`
-- **[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)** `Vue` ⭐19629 — Vue3、Element Plus、typescript后台管理系统  
+- **[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)** `Vue` ⭐19628 — Vue3、Element Plus、typescript后台管理系统  
   `element-plus` `pinia` `typescript` `vue`
 - **[google/web-starter-kit](https://github.com/google/web-starter-kit)** `HTML` ⭐18291 — Web Starter Kit - a workflow for multi-device websites
-- **[hzlzh/Best-App](https://github.com/hzlzh/Best-App)** ⭐17521 — 收集&推荐优秀的 Apps/硬件/技巧/周边等  
+- **[hzlzh/Best-App](https://github.com/hzlzh/Best-App)** ⭐17520 — 收集&推荐优秀的 Apps/硬件/技巧/周边等  
   `app` `mac` `macos`
 - **[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)** `TypeScript` ⭐17511 — 一个基于 React native 开发的音乐软件  
   `javascript` `music-player` `react-native-app`
@@ -521,7 +521,7 @@
 - **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** `Python` ⭐44352 — An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.  
   `debugging` `http` `http2` `man-in-the-middle` `mitmproxy`
 - **[lm-sys/FastChat](https://github.com/lm-sys/FastChat)** `Python` ⭐39490 — An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` ⭐37589 — Convert PDF to markdown + JSON quickly with high accuracy
+- **[datalab-to/marker](https://github.com/datalab-to/marker)** `Python` ⭐37590 — Convert PDF to markdown + JSON quickly with high accuracy
 - **[numpy/numpy](https://github.com/numpy/numpy)** `Python` ⭐32385 — The fundamental package for scientific computing with Python.  
   `numpy` `python`
 - **[jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)** `Python` ⭐31120 — JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-deman  
@@ -679,7 +679,7 @@
   `blog-engine` `cms` `content-management-system` `documentation-tool` `go`
 - **[gin-gonic/gin](https://github.com/gin-gonic/gin)** `Go` ⭐88920 — Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better  
   `framework` `gin` `go` `middleware` `performance`
-- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** `Go` ⭐74128 — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS  
+- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** `Go` ⭐74129 — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS  
   `acme` `automatic-https` `caddy` `caddyfile` `go`
 - **[moby/moby](https://github.com/moby/moby)** `Go` ⭐71868 — The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems  
   `containers` `docker` `go` `golang`
@@ -811,7 +811,7 @@
   `cloud-native` `eventing` `hacktoberfest` `java` `messaging`
 - **[brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP)** `Java` ⭐21158 — 光 HikariCP・A solid, high-performance, JDBC connection pool at last.  
   `connection-pool` `high-performance` `java` `jdbc`
-- **[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)** `Java` ⭐20425 — MyBatis SQL mapper framework for Java  
+- **[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)** `Java` ⭐20424 — MyBatis SQL mapper framework for Java  
   `java` `mybatis` `sql`
 - **[openzipkin/zipkin](https://github.com/openzipkin/zipkin)** `Java` ⭐17445 — Zipkin is a distributed tracing system  
   `distributed-tracing` `observability` `openzipkin` `tracing` `zipkin`
@@ -822,7 +822,7 @@
   `event-streaming` `messaging` `pubsub` `pulsar` `queuing`
 - **[elastic/logstash](https://github.com/elastic/logstash)** `Java` ⭐14905 — Logstash - transport and process your logs, events, or other data  
   `etl-framework` `java` `jruby` `logging` `real-time-processing`
-- **[apache/zookeeper](https://github.com/apache/zookeeper)** `Java` ⭐12778 — Apache ZooKeeper  
+- **[apache/zookeeper](https://github.com/apache/zookeeper)** `Java` ⭐12779 — Apache ZooKeeper  
   `apache` `configuration-management` `consensus` `coordination` `database`
 - **[redis/jedis](https://github.com/redis/jedis)** `Java` ⭐12344 — Redis Java client  
   `java` `jedis` `redis` `redis-client` `redis-cluster`
@@ -830,7 +830,7 @@
   `grpc` `java` `microservices` `proto` `rpc`
 - **[daniulive/SmarterStreaming](https://github.com/daniulive/SmarterStreaming)** `Java` ⭐11167 — 业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频  
   `android-rtmp` `gb28181` `hevc` `http-flv` `ios-rtmp`
-- **[SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)** `Java` ⭐10801 — Continuous Inspection  
+- **[SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)** `Java` ⭐10802 — Continuous Inspection  
   `code-quality` `sonarqube` `static-analysis`
 - **[android-async-http/android-async-http](https://github.com/android-async-http/android-async-http)** `Java` ⭐10586 — An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.  
   `android` `java`
@@ -1438,7 +1438,7 @@
 
 ## 🛠️ DevOps / Infra (84)
 
-- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132231 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132234 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
 - **[Kong/kong](https://github.com/Kong/kong)** `Lua` ⭐43802 — 🦍 The API and AI Gateway  
   `ai` `ai-gateway` `api-gateway` `api-management` `apis`
 - **[istio/istio](https://github.com/istio/istio)** `Go` ⭐38286 — Connect, secure, control, and observe services.  
@@ -1593,7 +1593,7 @@
   `chart` `charts` `d3` `data-visualization` `svg`
 - **[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)** `JavaScript` ⭐76754 — The iconic SVG, font, and CSS toolkit  
   `css` `font` `fontawesome` `icons` `svg-icons`
-- **[apache/echarts](https://github.com/apache/echarts)** `TypeScript` ⭐66824 — Apache ECharts is a powerful, interactive charting and data visualization library for browser  
+- **[apache/echarts](https://github.com/apache/echarts)** `TypeScript` ⭐66823 — Apache ECharts is a powerful, interactive charting and data visualization library for browser  
   `apache` `canvas` `charting-library` `charts` `data-visualization`
 - **[ShareX/ShareX](https://github.com/ShareX/ShareX)** `C#` ⭐38687 — ShareX is a free and open-source application that enables users to capture or record any area of their screen with a sin  
   `avalonia` `capture` `color-picker` `csharp` `dropbox`
@@ -1610,11 +1610,11 @@
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` ⭐526985 — Master programming by recreating your favorite technologies from scratch.  
   `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises`
-- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** ⭐486005 — 😎 Awesome lists about all kinds of interesting topics  
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** ⭐486007 — 😎 Awesome lists about all kinds of interesting topics  
   `awesome` `awesome-list` `lists` `resources` `unicorns`
 - **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** `TypeScript` ⭐361312 — Interactive roadmaps, guides and other educational content to help developers grow in their careers.  
   `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap`
-- **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** ⭐306115 — A list of Free Software network services and web applications which can be hosted on your own servers  
+- **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** ⭐306118 — A list of Free Software network services and web applications which can be hosted on your own servers  
   `awesome` `awesome-list` `cloud` `free-software` `hosting`
 - **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `Swift` ⭐108079 —  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca  
   `app` `apple` `application` `apps` `awesome`
