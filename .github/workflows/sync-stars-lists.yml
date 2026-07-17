@@ -1,0 +1,56 @@
+name: Sync Stars Lists
+
+on:
+  push:
+    paths:
+      - 'scripts/star_classifier.py'
+      - '.github/workflows/sync-stars-lists.yml'
+      - 'stars_state.json'
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      force-full:
+        description: 'Delete state file and re-sync all repos from scratch'
+        type: boolean
+        default: false
+
+permissions: {}            # least privilege at workflow level
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to commit state files back
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Optional force-full reset
+        if: ${{ github.event.inputs.force-full == 'true' }}
+        run: |
+          echo "🗑️  Removing state file to force full re-sync"
+          rm -f stars_state.json
+
+      - name: Sync stars to Lists
+        env:
+          GH_STAR_TOKEN: ${{ secrets.STARS_PAT }}
+        run: |
+          python scripts/star_classifier.py liwmj --sync --ci
+
+      - name: Commit updated state files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stars_state.json stars_data.json
+          if git diff --cached --quiet; then
+            echo "No state changes to commit"
+          else
+            git commit -m "chore: update stars sync state [skip ci]"
+            git push
+            echo "✅ State committed"
+          fi
