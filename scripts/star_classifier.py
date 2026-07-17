@@ -501,13 +501,6 @@ def gql_request(token, query, variables=None):
                 time.sleep(wait)
             else:
                 raise last_error
-        body_text = e.read().decode() if e.fp else ""
-        print(f"  GraphQL Error {e.code}: {body_text[:300]}")
-        if e.code == 401:
-            print("  → Token needs 'user' scope. Classic PAT with 'user' scope required for Lists.")
-            print("  → Create at: https://github.com/settings/tokens")
-            sys.exit(1)
-        raise
 
     if "errors" in result:
         for err in result["errors"]:
