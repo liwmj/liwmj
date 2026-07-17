@@ -596,7 +596,45 @@ def sync_repos_to_list(token, list_id, repos, state, cat_name, dry_run=False, ma
     return mutations_used, deferred
 
 
-def sync_categories(token, categorized, state, dry_run=False, is_ci=False):
+def prune_unstarred(token, current_repos, state, dry_run=False):
+    """
+    Remove repos from GitHub Lists if they are no longer starred.
+    Also cleans up state entries.
+    current_repos: all repos from the latest fetch.
+    """
+    current_ids = {r.get("node_id", "") for r in current_repos}
+    orphaned = [(nid, cat) for nid, cat in state.items()
+                if not nid.startswith("_") and nid not in current_ids]
+
+    if not orphaned:
+        return
+
+    print(f"\n🧹 Pruning {len(orphaned)} un-starred repos from lists ...")
+    batch = []
+    for node_id, cat in orphaned:
+        batch.append(f'  r{len(batch)}: updateUserListsForItem('
+                     f'input: {{itemId: "{node_id}", listIds: []}}) '
+                     f'{{ clientMutationId }}')
+        if len(batch) >= 5:
+            merged = "mutation {\n" + "\n".join(batch) + "\n}"
+            if not dry_run:
+                gql_request(token, merged)
+            batch = []
+            time.sleep(0.5)
+
+    if batch:
+        merged = "mutation {\n" + "\n".join(batch) + "\n}"
+        if not dry_run:
+            gql_request(token, merged)
+
+    # Clean up state
+    for node_id, _ in orphaned:
+        del state[node_id]
+    save_state(state)
+    print(f"  ✅ Removed {len(orphaned)} repos from lists + state")
+
+
+def sync_categories(token, categorized, state, dry_run=False, is_ci=False, all_repos=None):
     """
     Sync classified repos to GitHub Stars Lists.
     Creates one list per category, then incrementally adds only NEW repos.
@@ -607,6 +645,10 @@ def sync_categories(token, categorized, state, dry_run=False, is_ci=False):
         print("  (DRY RUN — no changes will be made)\n")
     if is_ci:
         print(f"  (CI mode: max {MAX_MUTATIONS_PER_RUN} mutations/run)\n")
+
+    # 0. Prune repos that were un-starred since last sync
+    if all_repos:
+        prune_unstarred(token, all_repos, state, dry_run=dry_run)
 
     # 1. Fetch existing lists
     print("  Fetching existing lists ...")
@@ -783,7 +825,7 @@ def main():
     # 5. Sync to GitHub Lists
     if do_sync:
         state = load_state()
-        sync_categories(token, categorized, state, dry_run=dry_run, is_ci=is_ci)
+        sync_categories(token, categorized, state, dry_run=dry_run, is_ci=is_ci, all_repos=repos)
 
 
 if __name__ == "__main__":
