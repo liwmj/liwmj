@@ -7,7 +7,7 @@
 
 ## 🤖 AI / ML / Data (162)
 
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** `TypeScript` ⭐383226 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞   
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** `TypeScript` ⭐383227 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞   
   `ai` `assistant` `crustacean` `molty` `openclaw`
 - **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** `C++` ⭐196316 — An Open Source Machine Learning Framework for Everyone  
   `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml`
@@ -15,11 +15,11 @@
   `ai` `artificial-intelligence` `awesome-list` `chatgpt` `chatgpt-prompts`
 - **[langgenius/dify](https://github.com/langgenius/dify)** `TypeScript` ⭐149138 — Production-ready platform for agentic workflow development.  
   `agent` `agentic-ai` `agentic-framework` `agentic-workflow` `ai`
-- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `Python` ⭐123352 — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** `Python` ⭐123355 — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
   `agents` `llms` `python` `rag`
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** `Python` ⭐121108 — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.  
   `ai` `comfy` `comfyui` `python` `pytorch`
-- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `Python` ⭐86498 — A high-throughput and memory-efficient inference and serving engine for LLMs  
+- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** `Python` ⭐86499 — A high-throughput and memory-efficient inference and serving engine for LLMs  
   `amd` `blackwell` `cuda` `deepseek` `deepseek-v3`
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** `Python` ⭐55679 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers  
   `agents` `ai` `ai-agents` `aiagentframework` `llms`
@@ -33,7 +33,7 @@
   `deep-learning` `examples` `machine-learning` `python` `tensorflow`
 - **[chatboxai/chatbox](https://github.com/chatboxai/chatbox)** `TypeScript` ⭐41038 — Powerful AI Client  
   `assistant` `chatbot` `chatgpt` `claude` `claude-code`
-- **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** `Python` ⭐37499 — Build resilient agents.  
+- **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** `Python` ⭐37500 — Build resilient agents.  
   `agents` `ai` `ai-agents` `chatgpt` `deepagents`
 - **[BVLC/caffe](https://github.com/BVLC/caffe)** `C++` ⭐34572 — Caffe: a fast open framework for deep learning.  
   `deep-learning` `machine-learning` `vision`
@@ -229,9 +229,9 @@
 
 - **[react/react](https://github.com/react/react)** `JavaScript` ⭐246545 — The library for web and native user interfaces.  
   `declarative` `frontend` `javascript` `library` `react`
-- **[microsoft/vscode](https://github.com/microsoft/vscode)** `TypeScript` ⭐187602 — Visual Studio Code  
+- **[microsoft/vscode](https://github.com/microsoft/vscode)** `TypeScript` ⭐187603 — Visual Studio Code  
   `editor` `electron` `microsoft` `typescript` `visual-studio-code`
-- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** `TypeScript` ⭐186748 — The open source coding agent.
+- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** `TypeScript` ⭐186749 — The open source coding agent.
 - **[vercel/next.js](https://github.com/vercel/next.js)** `JavaScript` ⭐140994 — The React Framework  
   `blog` `browser` `compiler` `components` `hybrid`
 - **[electron/electron](https://github.com/electron/electron)** `C++` ⭐122061 — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS  
@@ -592,7 +592,7 @@
 - **[titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)** `Python` ⭐20345 — 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital 
 - **[plotly/plotly.py](https://github.com/plotly/plotly.py)** `Python` ⭐18682 — The interactive graphing library for Python :sparkles:  
   `d3` `dashboard` `declarative` `graph-library` `interactive`
-- **[Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)** `Python` ⭐16721 — Wan: Open and Advanced Large-Scale Video Generative Models  
+- **[Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)** `Python` ⭐16722 — Wan: Open and Advanced Large-Scale Video Generative Models  
   `aigc` `video-generation`
 - **[fabric/fabric](https://github.com/fabric/fabric)** `Python` ⭐15477 — Simple, Pythonic remote execution and deployment.
 - **[pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)** `Python` ⭐13038 — Freeze (package) Python programs into stand-alone executables  
@@ -707,7 +707,7 @@
 
 ## 🐹 Go (64)
 
-- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` ⭐176300 — Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.  
+- **[ollama/ollama](https://github.com/ollama/ollama)** `Go` ⭐176301 — Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.  
   `deepseek` `gemma` `gemma3` `glm` `go`
 - **[golang/go](https://github.com/golang/go)** `Go` ⭐135280 — The Go programming language  
   `go` `golang` `language` `programming-language`
@@ -725,7 +725,7 @@
   `containers` `docker` `go` `golang`
 - **[etcd-io/etcd](https://github.com/etcd-io/etcd)** `Go` ⭐51994 — Distributed reliable key-value store for the most critical data of a distributed system  
   `cncf` `consensus` `database` `distributed-database` `distributed-systems`
-- **[docker/compose](https://github.com/docker/compose)** `Go` ⭐37863 — Define and run multi-container applications with Docker  
+- **[docker/compose](https://github.com/docker/compose)** `Go` ⭐37862 — Define and run multi-container applications with Docker  
   `docker` `docker-compose` `go` `golang` `orchestration`
 - **[beego/beego](https://github.com/beego/beego)** `Go` ⭐32414 — beego is an open-source, high-performance web framework for the Go programming language.  
   `beego` `go`
@@ -828,7 +828,7 @@
 - **[bumptech/glide](https://github.com/bumptech/glide)** `Java` ⭐35028 — An image loading and caching library for Android focused on smooth scrolling
 - **[zxing/zxing](https://github.com/zxing/zxing)** `Java` ⭐34026 — ZXing ("Zebra Crossing") barcode scanning library for Java, Android  
   `android` `barcode` `barcode-scanner` `datamatrix` `java`
-- **[apache/kafka](https://github.com/apache/kafka)** `Java` ⭐33251 — Apache Kafka - A distributed event streaming platform  
+- **[apache/kafka](https://github.com/apache/kafka)** `Java` ⭐33250 — Apache Kafka - A distributed event streaming platform  
   `java` `kafka` `scala` `streaming`
 - **[xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)** `Java` ⭐30374 — A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）  
   `cron` `distributed` `glue` `java` `job`
@@ -1012,13 +1012,13 @@
   `advanced-paste` `color-picker` `command-palette` `desktop` `fancyzones`
 - **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** `TypeScript` ⭐127714 — Virtual whiteboard for sketching hand-drawn like diagrams  
   `canvas` `collaboration` `diagrams` `drawing` `hacktoberfest`
-- **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** `Rust` ⭐118211 — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl  
+- **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** `Rust` ⭐118212 — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl  
   `ai-tools` `claude-code` `codex` `desktop-app` `hermes`
-- **[2dust/v2rayN](https://github.com/2dust/v2rayN)** `C#` ⭐111570 — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others  
+- **[2dust/v2rayN](https://github.com/2dust/v2rayN)** `C#` ⭐111571 — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others  
   `proxy` `shadowsocks` `socks5` `trojan` `v2fly`
-- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `Swift` ⭐108042 —  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca  
+- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)** `Swift` ⭐108043 —  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different ca  
   `app` `apple` `application` `apps` `awesome`
-- **[neovim/neovim](https://github.com/neovim/neovim)** `Vim Script` ⭐101189 — Vim-fork focused on extensibility and usability  
+- **[neovim/neovim](https://github.com/neovim/neovim)** `Vim Script` ⭐101190 — Vim-fork focused on extensibility and usability  
   `api` `c` `lua` `neovim` `nvim`
 - **[opencv/opencv](https://github.com/opencv/opencv)** `C++` ⭐89975 — Open Source Computer Vision Library  
   `c-plus-plus` `computer-vision` `deep-learning` `image-processing` `opencv`
@@ -1026,7 +1026,7 @@
   `c` `c-plus-plus` `directshow` `facebook-live` `ffmpeg`
 - **[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)** `C++` ⭐71507 — Protocol Buffers - Google's data interchange format  
   `marshalling` `protobuf` `protobuf-runtime` `protoc` `protocol-buffers`
-- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Python` ⭐69843 — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  
+- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** `Python` ⭐69841 — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  
   `ai` `ai-scraping` `automation` `crawler` `crawling`
 - **[apache/echarts](https://github.com/apache/echarts)** `TypeScript` ⭐66823 — Apache ECharts is a powerful, interactive charting and data visualization library for browser  
   `apache` `canvas` `charting-library` `charts` `data-visualization`
@@ -1062,7 +1062,7 @@
   `api-management` `circuit-breaker` `consul` `enforce-policies` `envoy`
 - **[FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)** `CSS` ⭐37733 — FCC China open source codebase and curriculum. Learn to code and help nonprofits.  
   `career` `certification` `cn-freecodecamp` `community` `curriculum`
-- **[umami-software/umami](https://github.com/umami-software/umami)** `TypeScript` ⭐37707 — Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Ampl  
+- **[umami-software/umami](https://github.com/umami-software/umami)** `TypeScript` ⭐37708 — Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Ampl  
   `analytics` `audience-segmentation` `charts` `cohort-analysis` `google-analytics`
 - **[markedjs/marked](https://github.com/markedjs/marked)** `JavaScript` ⭐36986 — A markdown parser and compiler. Built for speed.  
   `commonmark` `compiler` `gfm` `hacktoberfest` `markdown`
@@ -1675,7 +1675,7 @@
   `android` `app-framework` `cross-platform` `dart` `dart-platform`
 - **[react/react-native](https://github.com/react/react-native)** `C++` ⭐126217 — A framework for building native applications using React  
   `android` `app-framework` `cross-platform` `ios` `mobile`
-- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** `Rust` ⭐118420 — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.  
+- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** `Rust` ⭐118421 — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.  
   `android` `anydesk` `dart` `flatpak` `flutter`
 - **[2dust/v2rayNG](https://github.com/2dust/v2rayNG)** `Kotlin` ⭐59662 — A V2Ray client for Android, support Xray core and v2fly core  
   `android` `proxy` `shadowsocks` `socks5` `trojan`
@@ -1733,7 +1733,7 @@
 
 ## 🛠️ DevOps / Infra (48)
 
-- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132177 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** `Shell` ⭐132178 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea
 - **[Kong/kong](https://github.com/Kong/kong)** `Lua` ⭐43801 — 🦍 The API and AI Gateway  
   `ai` `ai-gateway` `api-gateway` `api-management` `apis`
 - **[harness/harness](https://github.com/harness/harness)** `Go` ⭐37359 — Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Develope  
@@ -1744,7 +1744,7 @@
   `docker` `faas` `functions` `functions-as-a-service` `gitops`
 - **[rancher/rancher](https://github.com/rancher/rancher)** `Go` ⭐25747 — Complete container management platform  
   `cattle` `containers` `docker` `kubernetes` `orchestration`
-- **[p8952/bocker](https://github.com/p8952/bocker)** `Shell` ⭐12663 — Docker implemented in around 100 lines of bash
+- **[p8952/bocker](https://github.com/p8952/bocker)** `Shell` ⭐12664 — Docker implemented in around 100 lines of bash
 - **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** `Go` ⭐10769 — Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols  
   `api` `api-gateway` `api-management` `cloudnative` `go`
 - **[kubernetes/kompose](https://github.com/kubernetes/kompose)** `Go` ⭐10568 — Convert Compose to Kubernetes  
@@ -1817,7 +1817,7 @@
   `cli` `deepseek` `llm` `rust` `terminal`
 - **[koalaman/shellcheck](https://github.com/koalaman/shellcheck)** `Haskell` ⭐39726 — ShellCheck, a static analysis tool for shell scripts  
   `bash` `developer-tools` `haskell` `linter` `shell`
-- **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `Go` ⭐27119 — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.  
+- **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** `Go` ⭐27118 — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.  
   `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 - **[Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)** `Shell` ⭐20598 — OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora  
   `almalinux` `bash` `centos` `debian` `fedora`
@@ -1847,7 +1847,7 @@
 
 ## 📚 Docs / Awesome / Learning (10)
 
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` ⭐526760 — Master programming by recreating your favorite technologies from scratch.  
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** `Markdown` ⭐526762 — Master programming by recreating your favorite technologies from scratch.  
   `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises`
 - **[sindresorhus/awesome](https://github.com/sindresorhus/awesome)** ⭐485924 — 😎 Awesome lists about all kinds of interesting topics  
   `awesome` `awesome-list` `lists` `resources` `unicorns`
