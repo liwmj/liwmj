@@ -1,0 +1,43 @@
+name: Sync Profile SVG
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Configure pip cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-svg-${{ hashFiles('cache/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-svg-
+      - name: Install dependencies
+        run: python -m pip install -r cache/requirements.txt
+      - name: Update profile SVGs
+        env:
+          ACCESS_TOKEN: ${{ secrets.STARS_PAT }}
+          USER_NAME: liwmj
+        run: python scripts/today.py
+      - name: Commit updated SVGs
+        run: |-
+          git add light_mode.svg dark_mode.svg cache/
+          git diff --cached
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -m "chore: update profile SVGs [skip ci]" || echo "No changes to commit"
+          git push
