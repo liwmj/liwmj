@@ -28,6 +28,7 @@
 </div>
 
 <div align="center">
+
 [![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://liwmj.com)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=docker&style=for-the-badge&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23CE412B.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -37,6 +38,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 </div>
 
 <!--Trap--:)-->
@@ -49,7 +51,6 @@
 🌈 &nbsp;极客、技术宅、全栈。研究过多种编程语言，深爱多范式混合编程和对象编程，有代码洁癖。喜欢探索新知识，乐于将自己开发的作品分享给开源社区，愿意和低调、诚实肯干的有识之士共同进步。
 
 <!--Trap--:)-->
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <a href="https://github.com/liwmj/liwmj">
@@ -60,5 +61,7 @@
 </a>
 
 <div align="center">
+
 ![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=liwmj&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+
 </div>
