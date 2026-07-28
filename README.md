@@ -65,6 +65,9 @@
 
 <div align="center">
 
-![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=liwmj&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=liwmj&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&theme=onedark">
+  <img alt="trophy" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=liwmj&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</picture>
 
 </div>
