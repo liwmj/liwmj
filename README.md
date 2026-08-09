@@ -45,7 +45,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=liwmj&show_icons=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=liwmj&show_icons=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff">
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liwmj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 </picture>
 
