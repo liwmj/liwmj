@@ -4,8 +4,8 @@
   "R_kgDOJ0Z1Pg": "🤖 AI / ML / Data",
   "R_kgDOIj6G7A": "🤖 AI / ML / Data",
   "R_kgDOJVxJug": "🤖 AI / ML / Data",
-  "_updated": "2026-09-14T11:38:30.302178",
-  "_count": 1335,
+  "_updated": "2026-09-21T11:51:38.995588",
+  "_count": 1340,
   "R_kgDOL0nxgA": "🤖 AI / ML / Data",
   "R_kgDOIygeJg": "🤖 AI / ML / Data",
   "MDEwOlJlcG9zaXRvcnk1MTA4MDUx": "🤖 AI / ML / Data",
@@ -923,7 +923,7 @@
   "MDEwOlJlcG9zaXRvcnkzOTEwMzgzNw==": "🛠️ DevOps / Infra",
   "MDEwOlJlcG9zaXRvcnkyMzQwNDgzOQ==": "🛠️ DevOps / Infra",
   "MDEwOlJlcG9zaXRvcnk2MTM4Mjk=": "🛠️ DevOps / Infra",
-  "MDEwOlJlcG9zaXRvcnkxOTUzNzk3OQ==": "🛠️ DevOps / Infra",
+  "MDEwOlJlcG9zaXRvcnkxOTUzNzk3OQ==": "🤖 AI / ML / Data",
   "MDEwOlJlcG9zaXRvcnk2MjA4ODM3Nw==": "🛠️ DevOps / Infra",
   "MDEwOlJlcG9zaXRvcnkxMTYzODk4ODY=": "🛠️ DevOps / Infra",
   "MDEwOlJlcG9zaXRvcnkzMjkzNTc0NQ==": "🛠️ DevOps / Infra",
@@ -1335,5 +1335,10 @@
   "MDEwOlJlcG9zaXRvcnkyNjg0MjQ3Mzk=": "🦀 Rust",
   "MDEwOlJlcG9zaXRvcnkxODY5MDQ0ODc=": "🐹 Go",
   "R_kgDOKHRkEQ": "📱 Mobile",
-  "R_kgDORZVQxg": "🛠️ DevOps / Infra"
+  "R_kgDORZVQxg": "🛠️ DevOps / Infra",
+  "R_kgDOT_mgZg": "🌐 Frontend / Web",
+  "R_kgDOMMa-Pg": "🐍 Python",
+  "R_kgDOPHhG7A": "🔧 C / C++",
+  "MDEwOlJlcG9zaXRvcnkyMzUxNDI5MA==": "🔐 Security",
+  "R_kgDORiXSTQ": "🔐 Security"
 }
